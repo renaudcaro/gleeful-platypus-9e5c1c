@@ -1,4 +1,4 @@
-name: Controle quotidien Atlas
+name: Actualisation quotidienne Atlas
 
 on:
   workflow_dispatch:
@@ -6,14 +6,31 @@ on:
     - cron: '0 6 * * *'
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  controle:
+  actualisation:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Verifier le lancement
+      - name: Recuperer les fichiers
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Collecter les actualites
+        run: python collecte.py
+
+      - name: Enregistrer les actualites
         run: |
-          echo "Controle quotidien de l'Atlas"
-          echo "Date UTC : $(date -u)"
-          echo "Aucune publication automatique"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add actualites.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualisation automatique des actualites"
+            git push
+          fi
+          
