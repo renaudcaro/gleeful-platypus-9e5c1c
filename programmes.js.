@@ -1,0 +1,37 @@
+
+async function chargerProgrammes() {
+  try {
+    const reponse = await fetch(
+      './programmes.json',
+      { cache: 'no-store' }
+    );
+
+    if (!reponse.ok) {
+      throw new Error('Fichier indisponible');
+    }
+
+    const donnees = await reponse.json();
+
+    if (!Array.isArray(donnees.propositions)) {
+      throw new Error('Format incorrect');
+    }
+
+    window.atlasProgrammes = donnees;
+    console.log(
+      'Base politique chargée :',
+      donnees.propositions.length,
+      'propositions'
+    );
+
+    window.dispatchEvent(
+      new Event('atlas-programmes-charges')
+    );
+  } catch (erreur) {
+    console.error(
+      'Chargement des programmes impossible :',
+      erreur
+    );
+  }
+}
+
+chargerProgrammes();
