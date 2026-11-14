@@ -1,0 +1,20 @@
+name: Controle quotidien Atlas
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 7 * * *'
+  timezone: 'Europe/Paris'
+
+permissions:
+  contents: read
+
+jobs:
+  controle:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verifier le lancement
+        run: |
+          echo "Controle quotidien de l'Atlas"
+          echo "Date UTC : $(date -u)"
+          echo "Aucune publication automatique"
