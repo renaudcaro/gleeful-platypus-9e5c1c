@@ -1,4 +1,35 @@
 {
-  "derniere_mise_a_jour": null,
-  "articles": []
+  "derniere_mise_a_jour": "2026-11-14",
+  "articles": [
+    {
+      "titre": "Inflation : +3,4 % sur un an en octobre 2026",
+      "date": "2026-11-13",
+      "type": "Donnée économique",
+      "statut": "Fait établi — résultats définitifs INSEE",
+      "resume": "Selon les résultats définitifs publiés le 13 novembre par l’INSEE, les prix à la consommation augmentent de 3,4 % sur un an en octobre 2026, contre 3,1 % en septembre. Les prix de l’énergie progressent de 24,1 % sur un an. Ces chiffres décrivent l’évolution observée des prix, sans établir à eux seuls la responsabilité d’une mesure politique particulière.",
+      "sources": [
+        {
+          "titre": "INSEE — IPC octobre 2026, résultats définitifs (13 novembre)",
+          "url": "https://www.insee.fr/fr/statistiques/9131332"
+        }
+      ]
+    },
+    {
+      "titre": "Budget 2027 : rejet du projet de loi de finances en première lecture à l’Assemblée",
+      "date": "2026-11-04",
+      "type": "Procédure parlementaire",
+      "statut": "Fait établi — source parlementaire",
+      "resume": "Le 4 novembre, l’Assemblée nationale n’a pas adopté la première partie du projet de loi de finances pour 2027, consacrée aux recettes. En application de son règlement, le texte a été considéré comme rejeté en première lecture. Cela ne signifie pas que le processus budgétaire est définitivement clos.",
+      "sources": [
+        {
+          "titre": "Assemblée nationale — Texte adopté n° 362",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0362_texte-adopte-seance.pdf"
+        },
+        {
+          "titre": "Assemblée nationale — Dossier du PLF 2027",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2027"
+        }
+      ]
+    }
+  ]
 }
