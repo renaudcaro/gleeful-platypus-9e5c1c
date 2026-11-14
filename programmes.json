@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "derniere_mise_a_jour": "2026-11-14",
+  "description": "Base documentaire des propositions politiques pour la présidentielle française de 2027. Les absences ne signifient pas absence de position.",
+  "personnalites": ["David Lisnard", "Édouard Philippe", "Gabriel Attal", "Bruno Retailleau", "Jordan Bardella", "Marine Le Pen", "Raphaël Glucksmann", "Jean-Luc Mélenchon", "François Ruffin", "Marine Tondelier", "Teddy Riner"],
+  "propositions": [
+    {
+      "personnalite": "Édouard Philippe",
+      "theme": "Retraites",
+      "mesure": "Âge légal de départ",
+      "proposition": "Porter progressivement l'âge légal de départ à 65 ans en moins de dix ans, avec maintien de départs anticipés pour certaines situations.",
+      "date": "2026-11-12",
+      "nature": "Proposition publiée sur le site de campagne",
+      "statut": "Déclaration sourcée — non réalisée",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Le candidat annonce ne pas augmenter les cotisations ni réduire généralement les pensions ; chiffrage indépendant non établi ici.",
+      "sources": [{"titre": "Avec Édouard 2027 — Retraites (mise à jour 12 novembre 2026)", "url": "https://www.edouardphilippe.fr/programme/retraites"}]
+    },
+    {
+      "personnalite": "Édouard Philippe",
+      "theme": "Retraites",
+      "mesure": "Durée de cotisation",
+      "proposition": "Porter progressivement la durée de cotisation à 45 annuités en moins de dix ans.",
+      "date": "2026-11-12",
+      "nature": "Proposition publiée sur le site de campagne",
+      "statut": "Déclaration sourcée — non réalisée",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Chiffrage indépendant non établi ici.",
+      "sources": [{"titre": "Avec Édouard 2027 — Retraites", "url": "https://www.edouardphilippe.fr/programme/retraites"}]
+    },
+    {
+      "personnalite": "Édouard Philippe",
+      "theme": "Retraites",
+      "mesure": "Capitalisation",
+      "proposition": "Généraliser la capitalisation collective et ouvrir un plan d'épargne retraite à chaque Français, avec un versement initial annoncé de 500 euros au premier emploi.",
+      "date": "2026-11-12",
+      "nature": "Proposition publiée sur le site de campagne",
+      "statut": "Déclaration sourcée — non réalisée",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Financement budgétaire global non vérifié.",
+      "sources": [{"titre": "Avec Édouard 2027 — Retraites", "url": "https://www.edouardphilippe.fr/programme/retraites"}]
+    }
+  ]
+}
