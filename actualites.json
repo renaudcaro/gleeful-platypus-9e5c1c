@@ -1,16 +1,105 @@
 {
-  "derniere_mise_a_jour": "2026-11-16",
+  "derniere_mise_a_jour": "2026-11-17",
   "articles": [
     {
-      "titre": "Compte rendu de réunion n° 26 - Commission des affaires économiques - Session 2026 – 2027 - 17e législature - Assemblée nationale",
-      "date": "2026-11-14",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
+      "titre": "Débat TF1-LCI : cinq personnalités confrontées à la précarité",
+      "date": "2026-11-16",
+      "type": "Synthèse du débat",
+      "statut": "Déclaration rapportée — vérification de faisabilité à poursuivre",
+      "resume": "Le 16 novembre, Gabriel Attal, Raphaël Glucksmann, Marine Le Pen, Jean-Luc Mélenchon et Bruno Retailleau ont débattu du logement, du pouvoir d'achat, des retraites et de la jeunesse avec des bénévoles et bénéficiaires des Restos du Cœur. Les propositions exposées sont des déclarations politiques, non des mesures adoptées.",
       "sources": [
         {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04WHVNWEMwVFJuVklOUjBZUE9veThvQnlRVHBiVXBOa1VsVkN0TmlSSWgxX2VORzhfWndZRzdxN3d6Uk1JUnJwOXhNWEZQMktsc1kyU2FiTlMzdTRvdDg1N2x6WHk0cDlzci1HMWVlTTY?oc=5"
+          "titre": "TF1-LCI — direct et extraits du débat du 16 novembre",
+          "url": "https://www.tf1info.fr/politique/elections/presidentielle/quelle-societe-pour-demain-precarite-logement-retraites-revoyez-les-temps-forts-du-debat-organise-par-lci-en-association-avec-les-restos-du-coeur-2471255.html"
+        },
+        {
+          "titre": "LCP — synthèse indépendante du 17 novembre",
+          "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci"
+        }
+      ]
+    },
+    {
+      "titre": "Marine Le Pen : TVA, logement social et retraites",
+      "date": "2026-11-16",
+      "type": "Déclaration — Marine Le Pen",
+      "statut": "Déclaration rapportée — vérification de faisabilité à poursuivre",
+      "resume": "Marine Le Pen a défendu une TVA à 0 % sur les produits de première nécessité, une priorité d'accès des Français au logement social et un départ à 60 ans avec 40 annuités pour les personnes ayant commencé à travailler avant 20 ans. Coûts, effets sur les prix et conformité juridique restent à évaluer.",
+      "sources": [
+        {
+          "titre": "TF1-LCI — direct et extraits du débat du 16 novembre",
+          "url": "https://www.tf1info.fr/politique/elections/presidentielle/quelle-societe-pour-demain-precarite-logement-retraites-revoyez-les-temps-forts-du-debat-organise-par-lci-en-association-avec-les-restos-du-coeur-2471255.html"
+        },
+        {
+          "titre": "LCP — synthèse indépendante du 17 novembre",
+          "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci"
+        }
+      ]
+    },
+    {
+      "titre": "Jean-Luc Mélenchon : allocation d'autonomie et héritages",
+      "date": "2026-11-16",
+      "type": "Déclaration — Jean-Luc Mélenchon",
+      "statut": "Déclaration rapportée — vérification de faisabilité à poursuivre",
+      "resume": "Jean-Luc Mélenchon a défendu une allocation d'autonomie de 1 337 € mensuels pour les étudiants et une taxation intégrale de la part des héritages au-delà de 12 millions d'euros. Le financement et le rendement réel de cette taxation demandent une évaluation indépendante.",
+      "sources": [
+        {
+          "titre": "TF1-LCI — direct et extraits du débat du 16 novembre",
+          "url": "https://www.tf1info.fr/politique/elections/presidentielle/quelle-societe-pour-demain-precarite-logement-retraites-revoyez-les-temps-forts-du-debat-organise-par-lci-en-association-avec-les-restos-du-coeur-2471255.html"
+        },
+        {
+          "titre": "LCP — synthèse indépendante du 17 novembre",
+          "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci"
+        }
+      ]
+    },
+    {
+      "titre": "Raphaël Glucksmann : enfants sans abri et retraites",
+      "date": "2026-11-16",
+      "type": "Déclaration — Raphaël Glucksmann",
+      "statut": "Déclaration rapportée — vérification de faisabilité à poursuivre",
+      "resume": "Raphaël Glucksmann s'est engagé, s'il est élu, à loger en trois semaines les 3 000 enfants qu'il décrit comme dormant dans la rue. Il a aussi défendu la répartition et la revalorisation des petites retraites au-dessus de l'inflation. Le nombre cité et les modalités opérationnelles doivent être contrôlés.",
+      "sources": [
+        {
+          "titre": "TF1-LCI — direct et extraits du débat du 16 novembre",
+          "url": "https://www.tf1info.fr/politique/elections/presidentielle/quelle-societe-pour-demain-precarite-logement-retraites-revoyez-les-temps-forts-du-debat-organise-par-lci-en-association-avec-les-restos-du-coeur-2471255.html"
+        },
+        {
+          "titre": "LCP — synthèse indépendante du 17 novembre",
+          "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci"
+        }
+      ]
+    },
+    {
+      "titre": "Bruno Retailleau : retraite à 65 ans et capitalisation",
+      "date": "2026-11-16",
+      "type": "Déclaration — Bruno Retailleau",
+      "statut": "Déclaration rapportée — vérification de faisabilité à poursuivre",
+      "resume": "Bruno Retailleau a défendu un âge légal de départ à 65 ans, avec un pilier de capitalisation, et une priorité liée au travail pour l'accès au logement. Les effets budgétaires et sociaux ne sont pas chiffrés dans cette fiche.",
+      "sources": [
+        {
+          "titre": "TF1-LCI — direct et extraits du débat du 16 novembre",
+          "url": "https://www.tf1info.fr/politique/elections/presidentielle/quelle-societe-pour-demain-precarite-logement-retraites-revoyez-les-temps-forts-du-debat-organise-par-lci-en-association-avec-les-restos-du-coeur-2471255.html"
+        },
+        {
+          "titre": "LCP — synthèse indépendante du 17 novembre",
+          "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci"
+        }
+      ]
+    },
+    {
+      "titre": "Gabriel Attal : durée de cotisation et accès au logement",
+      "date": "2026-11-16",
+      "type": "Déclaration — Gabriel Attal",
+      "statut": "Déclaration rapportée — vérification de faisabilité à poursuivre",
+      "resume": "Gabriel Attal a proposé de privilégier la durée de cotisation plutôt qu'un âge légal fixe, de tenir compte de la pénibilité et d'ajouter un pilier de capitalisation. Pour le logement social, il a défendu une priorité tenant compte de l'activité professionnelle, notamment dans les services publics.",
+      "sources": [
+        {
+          "titre": "TF1-LCI — direct et extraits du débat du 16 novembre",
+          "url": "https://www.tf1info.fr/politique/elections/presidentielle/quelle-societe-pour-demain-precarite-logement-retraites-revoyez-les-temps-forts-du-debat-organise-par-lci-en-association-avec-les-restos-du-coeur-2471255.html"
+        },
+        {
+          "titre": "LCP — synthèse indépendante du 17 novembre",
+          "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci"
         }
       ]
     },
@@ -24,279 +113,6 @@
         {
           "titre": "INSEE — IPC octobre 2026, résultats définitifs (13 novembre)",
           "url": "https://www.insee.fr/fr/statistiques/9131332"
-        }
-      ]
-    },
-    {
-      "titre": "Niches fiscales : des dépenses à mieux maîtriser selon la Cour des comptes - Vie publique",
-      "date": "2026-11-13",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDhmSWpDc29YNDNnSFJ5MzV6b3B2ZXZCRzVfU1VqT1dLTjA4WmJHQ3NFUFR2cDFmRVppUnJweXdjMUVDYUFWSllINDFFQWd6dE5yeVFTNlhtMjNNRE5hQzJ1SE15VUxrQTdvVGN5RUxnMFVWYXlhZWJtTHJrSVlyel93RmMySnhQZ2hLdFNVV0RkS2dmYlVZYzhKSkhBYUtHMVNhWGt0WGh5UkcxQ3pKZA?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "En octobre 2026, les prix à la consommation augmentent de 3,4 % sur un an - Informations rapides - 271 - Insee",
-      "date": "2026-11-13",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84YmNDLUYydnJfdkNZZnVPeENhMnZDYnVkREpDdmoyNGYzaHdXMTZPUzJzYm8tQkx2YXlkMkcxNlZxejJCUHkxREN0SFA0Tjh5TElnQkNKVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Séance publique du 13 novembre 2026 (matin) - Direct Sénat",
-      "date": "2026-11-13",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOHRpcEpRZ2Nhb3RFZGJsODBSNGRKbVZ3OVV3UlVoWXMtZmJPRWltZ2ZQN2xGOE9wSmZoY0FuamhwLWN3UVdoNGFRa0s1TGZSbmE3OHZxdkU1eUMzbWNpb3lMN2E4VlBnZm9VbGJhRmVCM1dOMFNUUGRRWDdsc2ZZSFZkTGZIa3BuQTdQMXZaZFpLWG93WHpLdQ?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Scrutin n°28 - séance du 22 octobre 2026 - Sénat",
-      "date": "2026-11-13",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XcWF5d1ZIaGdqeVcxZEtoQ1JEblhpUmRMUENFaTBWc24xUnE0d0pYTGlFQkEySWdDUWJGSHp2Q3R0QkxlN1htVmc3S3VDY2FHbTAxRDJpdXZTamhFbFpsaldFVV9HTWM?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Séance publique du 13 novembre 2026 (après-midi) - Direct Sénat",
-      "date": "2026-11-13",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaGZycHk1RnRsTEFubUdkNzdJU2ZydEtPRjdscWJxUkNYZlJaamdMb3E3VlpBZWYzZEU1aG5jWllyd01BQWRKVTdhRmVBdUJ1T0V0TzI2dWdEdnp5MXRIVkVNelRyZzZRRDg2ZUdDUjNHSUpRQ3VEY056Ykc2dHpwcHVpWkpoNWxwaXBwcUVjR3ZoUnM1QnVvVnU1N25udzg?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Séance du 13 novembre 2026 - Sénat",
-      "date": "2026-11-13",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1SjV6TGxHMThka0lCakpuWnNWNFAwM3MwYWNtcm5pV1d4Z2UzVTJZa1ZFUWlvQXNuX2lNTnpBd0kyNDBIYzI5LXJYdHNYb2pLYU9EV0dISjVqNUVETmZlYlgzQXoyQkFCdDdaMDU1LXVDVXc?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Analyse du scrutin n°9813 - Assemblée nationale",
-      "date": "2026-11-13",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTQlJTMGtQTWlmRkRDNFdNUVhfbl84RFQ4dW5SdkRRWllwNnV0N2FXNGR5UGUxMlhPdko0RUYwSlFDeVRKUmV5SEdlbkZvOVgxQTEtcFlITHk2Z2lfa19NQnVRSHNiUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Travaux récents - Sénat",
-      "date": "2026-11-13",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9keDVyTUhBR0IyNEhxc2FvU19MZThpTFZfem84Ui15dzJYdWJSbi1sM3VWM0c4OGhoWk1JdFdTbWdGSFl0b2F1X3dvVEw1QU5wYVJQNFAtZlUyTHJXOEZN?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Comptes rendus analytiques officiels du 13 novembre 2026 - Sénat",
-      "date": "2026-11-13",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lYXZCc29hRG5fNzV6Mnl6UUowYk9oR1dXSXdjM3c3ZEdqRU9yZzB0U3dhRmxlc0xzNlNTWEt2d2RUY1AwY3lfV3k1UHAwZDNPcEtiV0N3d3VPYWJTTmlNWjJXZmc?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Les migrations résidentielles portent la forte croissance démographique de Montpellier Méditerranée Métropole - Insee",
-      "date": "2026-11-12",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Sd0tCTEI5ckVRcm9IakQwYUZxRGJrTy1hQi1CYzRkMlFDbHBQRS1DSURXUnVGbmZOa29oMGhPSnBaa0thZWpEUWoxTG8tZUNkRWhac0dtVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Adoption de la proposition de loi visant à renforcer l’effectivité des droits voisins des éditeurs et des agences de presse, compte tenu du texte de la commission mixte paritaire - Assemblée nationale",
-      "date": "2026-11-12",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOODJ2c2g2d1lUSWRYbHhheUtyaTRHRC1ycURDTHpJd3lUbnZ1dTZ5NWNaRHJZX3R6LXk1bloxUmZmVXViMVNLbmRBZDc0V1YtVnJNaVZUcWVaeS1LTkpNU1pJdlpKWU1malZ1eThhMUg0eXVmU3JkNVQ3d04tcFhLV3A5dlRPQWVaZXpab2xZNzl2dUlROVdydl84M0dyVEE2LXJCYjZ2R2Rnd0YxTDQ2TnFvaUpHWDhwWTdnUEVFd29ITndUZXpYWEdKbFdNT2t3RURoRFEybHpPcEl1ZWRPTUZ1bjYza2ZmdVZjanV0MXZiS2MwZDQxMFl2OGs2c21BSzFzNU5XV0JRNG5jREpPQ3VKcGliaUc3MXdPUWlEZUZTakxKMWN2c1VXOTFsQm1DRkE?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Inversons la pyramide des rémunérations politiques - Plateforme des pétitions de l’Assemblée nationale",
-      "date": "2026-11-12",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1clFFaFhIZFB2VjU0cDlZSC1LMkdWVnp1UFNCRWpncVVLV21SRXM3eDgwV1AtY0NyQk0wY0ZZVlhlMWs5UzMwNnJBRGpPd0hvQ29TdTMwaFh6VUdXWjVvZU1wLXdsX3hXYWRB?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Pour que Teddy Riner et tout candidat porté par 1 million de citoyens puissent candidater à la présidentielle: remplacer les 500 parrainages d’élus - Pour que Teddy Riner et tout candidat porté par 1 million de citoyens puissent candidater à la présidentielle: re - Plateforme des pétitions de l’Assemblée nationale",
-      "date": "2026-11-12",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9na3h0R0hCLXNPdkt3MlVNZnVsSUp4LXFKc0Rxc2diUlVoa1RmTjVBam5qSHE1eUV6ekRncTVLb3NKUVlfV0lUUy1sQWNzY2dqUXN2eVBXR01KaUZ2Z0MzTmF0RTB4ZDZpR0N3?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Examen du projet de loi de finances de fin de gestion pour 2026 - Assemblée nationale",
-      "date": "2026-11-12",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVk9aclJwWVZCMHBua2V3cUZFdXRsLXNFaVJ0X3REU0p5dXpldVlFREZLWTR6MFVEazkzMWNoZTBpQU5hSjFkVXBvN05yalRSSzJEdXphMVlYbDJNbTBGS3FMX0dZNnJmdklpaVc0SFpOWTRtMWZISDYtWi1tVTFSR2ZvZ3BWalhtaElKS2xMdm9lZlZFWUdWYVFzR1F3alV0VE02TkxNZUNuSzRUQmFoMEdWQmw5TGxYOWVOci12Y2VzQk0?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Séance publique du 12 novembre 2026 (soir) - Direct Sénat",
-      "date": "2026-11-12",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd1dwUmptX2xkZHFRZjZudVVJVWRWS3lfRTcwcHdENW10QnZ6azNQMV9kaklFby1zWm9uYVdUX2piVjgzcnJJRGJJeHpOeDZmY0pqbnBYOEN0a2RRb1BqSDhZNl9KR1NfNmkxTWxJSzRzR0tkV0w5RmsxMTRfcTRFWWh0VU5YYmxzUkJ4cWJaU29tbDhLQmw4?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Rejet du projet de loi de finances de fin de gestion pour 2026 - Assemblée nationale",
-      "date": "2026-11-12",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWGg4RWVuYXp4blNWX1FzSk1PV0RTVkV0V1B0WlBBa29RVW81STJNaHEwTmNhX2xBOTJYNmtHSVpSQVZ0Zy1kY0ZDamxIMzM4UlFEWElSODNxVXVPMGN6SVVNOVpERXJQeG96Unc2Z1pFdmFYczE4VmpMNUttR2xwUWtBeGp0d1FoLW9EOEp5bjQyRmYzbzZQbldMdzlCT3ZSLS00Yk5RNGpLNDJzZXNQbDQtWVhGbEQ3a1dXbzJYaks0Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Séance publique du 12 novembre 2026 (matin) - Direct Sénat",
-      "date": "2026-11-12",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbG9YQ1hJbmFTM2RPcktUVjVYaUNaNnBCLS1PaUlUcUVabHNwQnM2MGkwN1JCNlJkNG9XemE5X09Gdm1adUhBUHFEMjMzUkRqRXVxSWZKQkItaS15WWw2Z0NzUFYtWVU3dmd3OFBLcklGbkNrTmhnNHcta2xnLTBtd1BmU01SblpDVmlkaTNSU3doLS1jcldxZA?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Budget 2027 : conférence de presse - Direct Sénat",
-      "date": "2026-11-12",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQXdVOENoZ2E4WWZ5ZExFR1RyNHBZOG42eXJaeFlpZFdiRnpUSEh5QnBWRi1XdVRnZVBjSUNFb08tbFA3TXdUWlE3bUZDRUgxUTlua0ZxMjJpTmZHYVdFUlMxcTRUZFZWRmQ0THk1bFl0ZWZmQWJyMFh0dzBEYXdGVV9aTnU4ZDVPdGpNSDln?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Séance publique du 12 novembre 2026 (après-midi) - Direct Sénat",
-      "date": "2026-11-12",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc3RQdU0wMHRZQzdYN3U5aVEwY0FmYkdFTm1iWFR6ZTFUeHlkejgzdkFrR19rc213YVk4M0ZYcTNsM045T1VWcFVzN3E0VGZLTHMtR3k0OXY0aFBnSkJMUXBNTzI3Nk1ucGhvWWpGUkNSdHUxLU1hWnlWanVyUEFtX00zd2FlR3prNmwzeUI5Ql9ySDh4Q0p4QzVERlg3NXc?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Reconnaître une présomption de légitime défense pour les forces de l'ordre - Sénat",
-      "date": "2026-11-11",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPbVVoTE9WdEZqWjM3UFdQenZyQWllNmRGTnYxUVhZRUFSUTE2a3JLMXp0N0l0YUE1b3htTnBYZC1VdzN6UVczcHlmSUYtQmtU?oc=5"
-        }
-      ]
-    },
-    {
-      "titre": "Lutte contre les discours incitant à la haine et aux actes racistes - Sénat",
-      "date": "2026-11-11",
-      "type": "Repérage documentaire",
-      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
-      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
-      "sources": [
-        {
-          "titre": "Lien vers la publication repérée (Google Actualités)",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1dXlPRXlEZDN4WXNXQTkwQlFXTTlhazlscVNlZmRYcVFxVmJxRmJWYzdSSVpsRnFRVFYwMmZkSE9GUERLRDhjcUh1LUhJMVIy?oc=5"
         }
       ]
     },
