@@ -39,9 +39,6 @@ def parse_date(raw):
         return None
 
 def main():
-    if os.getenv('GITHUB_EVENT_NAME') == 'schedule' and NOW.hour != 7:
-        print('Hors créneau de 7 h à Paris : aucune action')
-        return
     content = json.loads(FILE.read_text(encoding='utf-8'))
     articles = content.setdefault('articles', [])
     seen = {str(a.get('sources', [{}])[0].get('url', '')).strip() for a in articles if a.get('sources')}
