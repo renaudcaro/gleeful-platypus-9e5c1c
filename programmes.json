@@ -1,8 +1,20 @@
 {
   "version": 1,
-  "derniere_mise_a_jour": "2026-11-14",
-  "description": "Base documentaire des propositions politiques pour la présidentielle française de 2027. Les absences ne signifient pas absence de position.",
-  "personnalites": ["David Lisnard", "Édouard Philippe", "Gabriel Attal", "Bruno Retailleau", "Jordan Bardella", "Marine Le Pen", "Raphaël Glucksmann", "Jean-Luc Mélenchon", "François Ruffin", "Marine Tondelier", "Teddy Riner"],
+  "derniere_mise_a_jour": "2026-11-19",
+  "description": "Base documentaire des propositions politiques pour la présidentielle française de 2027. Les absences ne signifient pas absence de position. Les propositions de partis ne sont pas nécessairement des engagements personnels pour 2027.",
+  "personnalites": [
+    "David Lisnard",
+    "Édouard Philippe",
+    "Gabriel Attal",
+    "Bruno Retailleau",
+    "Jordan Bardella",
+    "Marine Le Pen",
+    "Raphaël Glucksmann",
+    "Jean-Luc Mélenchon",
+    "François Ruffin",
+    "Marine Tondelier",
+    "Teddy Riner"
+  ],
   "propositions": [
     {
       "personnalite": "Édouard Philippe",
@@ -15,7 +27,12 @@
       "cout_annuel": null,
       "cout_cinq_ans": null,
       "financement": "Le candidat annonce ne pas augmenter les cotisations ni réduire généralement les pensions ; chiffrage indépendant non établi ici.",
-      "sources": [{"titre": "Avec Édouard 2027 — Retraites (mise à jour 12 novembre 2026)", "url": "https://www.edouardphilippe.fr/programme/retraites"}]
+      "sources": [
+        {
+          "titre": "Avec Édouard 2027 — Retraites (mise à jour 12 novembre 2026)",
+          "url": "https://www.edouardphilippe.fr/programme/retraites"
+        }
+      ]
     },
     {
       "personnalite": "Édouard Philippe",
@@ -28,7 +45,12 @@
       "cout_annuel": null,
       "cout_cinq_ans": null,
       "financement": "Chiffrage indépendant non établi ici.",
-      "sources": [{"titre": "Avec Édouard 2027 — Retraites", "url": "https://www.edouardphilippe.fr/programme/retraites"}]
+      "sources": [
+        {
+          "titre": "Avec Édouard 2027 — Retraites",
+          "url": "https://www.edouardphilippe.fr/programme/retraites"
+        }
+      ]
     },
     {
       "personnalite": "Édouard Philippe",
@@ -41,7 +63,156 @@
       "cout_annuel": null,
       "cout_cinq_ans": null,
       "financement": "Financement budgétaire global non vérifié.",
-      "sources": [{"titre": "Avec Édouard 2027 — Retraites", "url": "https://www.edouardphilippe.fr/programme/retraites"}]
+      "sources": [
+        {
+          "titre": "Avec Édouard 2027 — Retraites",
+          "url": "https://www.edouardphilippe.fr/programme/retraites"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Retraites",
+      "mesure": "Âge de départ",
+      "proposition": "La France insoumise défend le retour à la retraite à 60 ans.",
+      "date": "2026-11-19",
+      "nature": "Position du mouvement La France insoumise ; ne pas assimiler sans réserve à un engagement personnel nouveau pour 2027",
+      "statut": "Déclaration sourcée — non réalisée",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Chiffrage indépendant non établi ici.",
+      "sources": [
+        {
+          "titre": "La France insoumise — programme affiché sur le site officiel",
+          "url": "https://lafranceinsoumise.fr/"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Pouvoir d’achat",
+      "mesure": "SMIC",
+      "proposition": "La France insoumise défend un SMIC à 1 700 euros net.",
+      "date": "2026-11-19",
+      "nature": "Position du mouvement La France insoumise ; ne pas assimiler sans réserve à un engagement personnel nouveau pour 2027",
+      "statut": "Déclaration sourcée — non réalisée",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Chiffrage indépendant non établi ici.",
+      "sources": [
+        {
+          "titre": "La France insoumise — programme affiché sur le site officiel",
+          "url": "https://lafranceinsoumise.fr/"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Fiscalité",
+      "mesure": "Impôt sur la fortune",
+      "proposition": "La France insoumise défend le rétablissement de l’ISF.",
+      "date": "2026-11-19",
+      "nature": "Position du mouvement La France insoumise ; ne pas assimiler sans réserve à un engagement personnel nouveau pour 2027",
+      "statut": "Déclaration sourcée — non réalisée",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Chiffrage indépendant non établi ici.",
+      "sources": [
+        {
+          "titre": "La France insoumise — programme affiché sur le site officiel",
+          "url": "https://lafranceinsoumise.fr/"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Pouvoir d’achat",
+      "mesure": "Prix",
+      "proposition": "La France insoumise défend le blocage des prix de produits essentiels.",
+      "date": "2026-11-19",
+      "nature": "Position du mouvement La France insoumise ; ne pas assimiler sans réserve à un engagement personnel nouveau pour 2027",
+      "statut": "Déclaration sourcée — non réalisée",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Chiffrage indépendant non établi ici.",
+      "sources": [
+        {
+          "titre": "La France insoumise — programme affiché sur le site officiel",
+          "url": "https://lafranceinsoumise.fr/"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Le Pen",
+      "theme": "Fiscalité",
+      "mesure": "TVA sur l’énergie",
+      "proposition": "Le groupe RN a défendu une baisse de TVA sur l’énergie dans ses amendements budgétaires pour 2025.",
+      "date": "2025-01-01",
+      "nature": "Position parlementaire du groupe RN, non engagement personnel 2027",
+      "statut": "Déclaration sourcée — non réalisée",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Document du groupe RN : estimation budgétaire à replacer dans le contexte de 2025 ; pas de chiffrage indépendant établi ici.",
+      "sources": [
+        {
+          "titre": "Groupe RN — Bilan budgétaire des amendements au PLF 2025",
+          "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2025.pdf"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jordan Bardella",
+      "theme": "Fiscalité",
+      "mesure": "TVA sur l’énergie",
+      "proposition": "Le groupe RN a défendu une baisse de TVA sur l’énergie dans ses amendements budgétaires pour 2025.",
+      "date": "2025-01-01",
+      "nature": "Position parlementaire du groupe RN, non engagement personnel 2027",
+      "statut": "Déclaration sourcée — non réalisée",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Document du groupe RN : estimation budgétaire à replacer dans le contexte de 2025 ; pas de chiffrage indépendant établi ici.",
+      "sources": [
+        {
+          "titre": "Groupe RN — Bilan budgétaire des amendements au PLF 2025",
+          "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2025.pdf"
+        }
+      ]
+    },
+    {
+      "personnalite": "François Ruffin",
+      "theme": "Travail et salaires",
+      "mesure": "Indexation des salaires",
+      "proposition": "Proposition d’indexer les salaires sur l’inflation pour les travailleurs essentiels.",
+      "date": "2026-04-13",
+      "nature": "Proposition de campagne rapportée dans le cahier sur les travailleurs essentiels",
+      "statut": "Déclaration sourcée — non réalisée",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Chiffrage indépendant non établi ici.",
+      "sources": [
+        {
+          "titre": "Nous Président ! — cahier travailleurs essentiels, référencé par ÉclaireMonVote",
+          "url": "https://eclairemonvote.fr/candidat/francois-ruffin"
+        }
+      ]
+    },
+    {
+      "personnalite": "François Ruffin",
+      "theme": "Écologie et énergie",
+      "mesure": "Électricité nucléaire",
+      "proposition": "Proposition de poursuivre six réacteurs EPR2, sous réserve des procédures et contrôles applicables.",
+      "date": "2026-09-09",
+      "nature": "Proposition de campagne dans le cahier écologique",
+      "statut": "Déclaration sourcée — non réalisée",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Chiffrage indépendant non établi ici.",
+      "sources": [
+        {
+          "titre": "Nous Président ! — Pour un travaillisme écologique, référencé par ÉclaireMonVote",
+          "url": "https://eclairemonvote.fr/candidat/francois-ruffin"
+        }
+      ]
     }
   ]
 }
