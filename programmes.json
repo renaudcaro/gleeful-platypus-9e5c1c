@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "derniere_mise_a_jour": "2026-11-19",
+  "derniere_mise_a_jour": "2026-11-20",
   "description": "Base documentaire des propositions politiques pour la présidentielle française de 2027. Les absences ne signifient pas absence de position. Les propositions de partis ne sont pas nécessairement des engagements personnels pour 2027.",
   "personnalites": [
     "David Lisnard",
@@ -2871,6 +2871,880 @@
         {
           "titre": "Un programme qui « ruinerait la France » : Bruno Retailleau n’apporterait pas son « concours » à un gouvernement dirigé par le RN - Le Télégramme",
           "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNeExjb1NYWUhhZ05iUk1TQ3dTaHg2UkV1Nko4eXRMQjRVR0d5SHBMTDdDa3lERWtzcWxQNjRiU3h2T2pXM3NyZDF5TVpIMk5NYjZMd3lxVk8yaF8zUjR6ckFsbDRlaDg2c21JeHRvSy1LUm5VSHdkTXNFNkY3SWpwYmgtOHY5UnpjRXRXU1lwNkFjemFFLWN4eDNkOGtxbW5HaWtJVW80MFBQSDlZMHhWanFYdjZjYnByQU50dm1LWTJKUXR2Qk5sVTBkdE8tMHFtRnZIN3hMOGUwTi1RZFJMR09IeU5kWk1UbXdLcHU2a3RRMFdSWDJFSmdRakppenA5Q3ptOFRWanc3VFJfUXVjdQ?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "David Lisnard",
+      "theme": "Autres propositions",
+      "mesure": "Présidentielle 2027 : Edouard Philippe contre David Lisnard, le duel inattendu de la droite - Les Echos",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-20",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : Edouard Philippe contre David Lisnard, le duel inattendu de la droite - Les Echos",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdV82QlJZdkRQRG1TSkR6QXI1V1VINEhJOFJoaXZadXBjdklCWjBEVzQtQkVMSXpLRDZ6Nm1QTmZaM3RhT2hqV1RSOTNtNU1naE1TcVdCc3NsUy1UMS1iUHhNTWpHNTVtNjY0WExuQ2dka2RzcWJQTmUxMm1oNkpFc1dnS0tUY3F3d2hrb2VzZ2gzRmw0R2ZiUmxldy1BQUNSdnVPQVNqYlN3aXJUWnR1ZUExbHZEeHVsYm1lUW5qZE9BTkExTGs0dWV4N2RxTkM2bGJVV3NIX1JwYXRSc0E?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "David Lisnard",
+      "theme": "Autres propositions",
+      "mesure": "Présidentielle 2027 : pour réduire la dette, David Lisnard veut supprimer 400.000 postes de fonctionnaires - Le Figaro",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-18",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : pour réduire la dette, David Lisnard veut supprimer 400.000 postes de fonctionnaires - Le Figaro",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcE1jbTRBNkFWcHJ0TzQyQURvbzFKTEZNcFNlOElNOWtaZnhPcmhuUG1FTWpNM3hheGhZeTU5S0dZX3VjeUttMVRKNWMtSWo1YkdJdkdicUdoSUtQQVdQdGJNbTlBN1VPdkQ2ZEZoT0ZxMDZ5VmpoR3Z2SjBTNFNIaWJJVm5WS2pvQ2U3YmU1WnB6LVhCVzRuVXRvSURxbXFsRk1SVzZmRDVCTERBd0RZSVRiQi1Ua2ppemFCdzd5MWpFOEFoQ1NEQUQ1SmtubGZwVzA2TTk3RGUtNkVQQ1RpWHd0R0R5TVF4UXV5TWpkTUN5REx5UmE2SXowNVJuelVfMTM4?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "David Lisnard",
+      "theme": "Économie",
+      "mesure": "«De véritables économies» : David Lisnard promet de supprimer 400 000 postes de fonctionnaires - lejdd.fr",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "«De véritables économies» : David Lisnard promet de supprimer 400 000 postes de fonctionnaires - lejdd.fr",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbVB3SVh3WEd4aC01TXNxcHphb0gwNXRVdHdtNUJsYXRIblpOWkhScUd4c1ZjYmxzbGpPRDdGcmlWeFhTMjY3N0J5NzNQZHZmVFpoUVltMXdmLWowMFVQUmdoakpoVXdVSmRjTUh5U0MwdHZka2FLV2RSZ0NBTDFjbW5UOGRRZFY2eDlwT0NBREJvd0xiQTRFUmVEdTFFd1VPY09zWnFjNXRCSGRyX09TU1BIX05adDVSZ3BLTnlVMVBVWlY2TGp3?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "David Lisnard",
+      "theme": "Autres propositions",
+      "mesure": "Présidentielle 2027 : un porte-parole de David Lisnard affirme que son candidat ne participera pas à une primaire sans Édouard Philippe - Le Parisien",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : un porte-parole de David Lisnard affirme que son candidat ne participera pas à une primaire sans Édouard Philippe - Le Parisien",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQRzRpbVgzWTVvRDduWGx6N2dzVVhLZjJ1cmxpRXRVMGVEMG1NMHd0eVhzdlZGSVUyeFdrbS1zdi03YW1DQTdfMU55UlRMd3BmVmd6VjE4VDZMR0F1aXMwVEpEZGY0NDBoUzJmRVR4SGdKUmhrajV1U2lSVjk2dnV0WUtPRVpxdGw4TlBYbGhNRzVabFZSUXEwQzBXVlRFNF9oM2o5RmJnVzh2N0s2SXMyQk9Jd0I2U2ZSZzVuWEhOWnJnZkk0ai1WbEdiTFlZN0J1ZjRfeHd2OS1JYVgzbFYzUlNxd2RaVHh2aXJQU294bjd5UUZJRGRHN1I2YnpzMEdqS3FHN3lXdTZaaC1hSzcxR25Dbm1pVk95SnlNRFNGUmt1ZEtaS0x6WjdSWm1hNnpMekZwNzI2eF9BS3o3OG9uNGNQQmtwTE9xeEE?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "David Lisnard",
+      "theme": "Autres propositions",
+      "mesure": "«David Lisnard flirte avec les idées populistes de Javier Milei», dénonce Kadir Mebarek, porte-parole de campagne d’Édouard Philippe - RFI",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "«David Lisnard flirte avec les idées populistes de Javier Milei», dénonce Kadir Mebarek, porte-parole de campagne d’Édouard Philippe - RFI",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQanM2WG5wOXBfQXBIWm5OOTI2T1preTdzWHVrZ3Fha2hiZ1hGVldSd19TUDVkQmhEZWJEak53Wm1OQm5FLThsU2c3a21iTkRxNWZnbDFXM1ExMTVVdmxaX2FTVTIzMkRmQ0FRMm5QZXJTS3FRczJpYU90NTFKc0J4V0NRNmJnTXBFVDVfbnBENnJFbVAwZEp6Y1FkZE5fSG41SHdpZDVRY1hQMGwxUDNXdk42SkZjcUZscHp2Q0duVGcyel90TnBEZldTMlBYVFJWd1lCUkZac2FoVWcyZ0pqcXVwQ3diZ1dpQ3hsRjVPekMwLTdTN0QweVpTRWRIaml4RHR1eFBXYWFnR2JBMk5SRkpRUmdMd3JxQjRfMlBWaEhGSDlOd3RUc01LQ1Vkdw?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Édouard Philippe",
+      "theme": "Autres propositions",
+      "mesure": "\"Rompre avec 50 années de laxisme budgétaire\": Édouard Philippe présente son programme - BFM",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-18",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "\"Rompre avec 50 années de laxisme budgétaire\": Édouard Philippe présente son programme - BFM",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUkhQcFh4aDJub1d6dUY0Wndxby1TQ1Z5U0l4UW9lUjRwT3pnOWE4eGJtaEF3ekw0eldfNE1TLXpteExuWDlieWRQZENCOHkta2xicTZ6ekNyd2d6S3h1MmVIZTBSRWpqUmd0RUd3X3AtR0otSjJZU285cy14V1hfQkdDN2JFLWcxMGhONlRBamdWOWNWVjVaSnVwV3gwV1gxRWtpbG9NOWpMLXBPVlBjYXJ6UWJnM1VsRjVkU0lCLWZrd1pMTVphWUdjLTB3eXBJNkRZc0dYMXZkZVpyejJxNkdQT1dCSHlpNHE2V2x5eUNGZTRQZk9zUXFjbw?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Édouard Philippe",
+      "theme": "Autres propositions",
+      "mesure": "Présidentielle 2027 : les sept mesures économiques de « rupture » d'Edouard Philippe - Les Echos",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-18",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : les sept mesures économiques de « rupture » d'Edouard Philippe - Les Echos",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQalBTaWxHbFFUTjVWMXFjMlk1dDdnUzRHZTFkTjBZNlVZaGRYNjZFbGp0alJYTFR6VnRmMXBlUV9ubTlqMkkxTXNIVHdIVE5OQ285QzZqUEFXV202a0ttNFlyM3JUVGh3VEZ5cjAxQXcySnYwcXBYVy1ZUGF3bzZkUFNKTVVyeW5UYmd4R00xaTdvaVNPVFo0aUc3WmNTVHp5VXhfVi05TjRLY3RBZ0V5QlQtdnNGT21YeFVsQmxhZTJsd1JZTkFPMjFVYkZSaER5aThTaw?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Édouard Philippe",
+      "theme": "Autres propositions",
+      "mesure": "Présidentielle 2027 : Edouard Philippe présente les «grandes voix» de sa campagne ce mercredi - CNews",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-18",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : Edouard Philippe présente les «grandes voix» de sa campagne ce mercredi - CNews",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblJpRlZYcV9MWVRWcXRmRWFQRXhMeV8zVTNhdVZjbERobFBVbHRWdHNiQ2plSDRDcVJtTHctMy13dEo2R3gwZkMxUXFiTTNmUnYzTVNnV3Fib3g5anZxMWR3SjEwSEtlWVZxQVg2QnJ2UjhNcGRoakNFVXppcTdmMHVXOENTVl9FbmFpNWxrUV9pVXg0UGx6b1RSeTgyYjBNSE5MYWRNdEh1cktnU092MHVrbWgtM0ZPNjZJ0gHAAUFVX3lxTFBsdXg2N2xJMTJzRWN0eEhHbmt4M0FvNmpRS1NVWi1xejBXb0R2enU3LWd5Y05SWHpCd2VNQ2ZKd3BIWk1zTjhMWEI4MDAxa201QmU4NjVWcmlDSWQ4eG5UOWY4bEFudmhDOEg4Mk5SMHF6YU9LRFlLYkd1Q0Z1eHJyeTExeTRoeElZZUYweDFsT3NTTWdWVFduTzBzUGVNdFYzRzZBTzM2VWI4djQzVi1iaGQxMTFKYnNTc0ZtUGpCNQ?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Édouard Philippe",
+      "theme": "Autres propositions",
+      "mesure": "INFO RTL - Présidentielle 2027 : Édouard Philippe prépare un grand meeting le 24 janvier à Arras pour donner un nouvel élan à sa campagne - RTL",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-18",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "INFO RTL - Présidentielle 2027 : Édouard Philippe prépare un grand meeting le 24 janvier à Arras pour donner un nouvel élan à sa campagne - RTL",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQXlCVVBacmFoRzRzd19HUk4wbW5iNE96R1RYZzByX21DUXpZUkdtNkVaSVBqZFR6My1udGNINXJsRlNWc1dpZ1d6Z1B0NHN3ZEh0d25SLUtJOHJ6NkNoNkw3UzFOVWtma0xfTGJmUlFqMnB3TTZROWNNMXZfV09CcnpRbFhUR2w4RzI4Qkd2RFpCZlBnZ011RmlhQ1lZYmw4cmFvaFZhNVV6TjNGLXFTUmNVOWdFdGNZcEI3c2k1Z012MFdmbE5teDNacS0tNFl0Z0FsYlF4QzN1UXpROFN4ZER0TmhqVWMyQVZvbC1uNEJYSjZLbk1QRXg0Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Édouard Philippe",
+      "theme": "Autres propositions",
+      "mesure": "VIDÉO. Édouard Philippe : son programme présidentiel et son refus de la primaire - Ouest-France",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "VIDÉO. Édouard Philippe : son programme présidentiel et son refus de la primaire - Ouest-France",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNc3luOGhkZkJJNGFmU0Nid0swT0lKY2hWSllocE5jLWRxSlJyaXRzQkx0R2had3VZX01MdDgyTnVUTHJaS1hXZ1N4NTdCM1hLV0g2Zm92VHMwUGhULUM5VVc3MWhyLUk5RmdkaVhaNTZjVl9yWWZzY0hVc01VUGtJdW1sd2dmdFFWTkpDN2szMll6bVJWTVpkQnpvNUpOb2Q0QWYtbnpKdHFkNjZ3TlV3amVySHZYT25Bc2hvTU9HQ2VpRG1oMWhwYnpFLU82dXRoTWkwdmljNDJ0WS1WUVVPcmJKTmR4RHVOYWYwQ2RMRjZEMktqdGtDSVJ0Rlctdw?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Édouard Philippe",
+      "theme": "Logement",
+      "mesure": "Moins de 35 ans ? Edouard Philippe veut supprimer vos frais de notaire à l’achat d’un logement - Capital.fr",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Moins de 35 ans ? Edouard Philippe veut supprimer vos frais de notaire à l’achat d’un logement - Capital.fr",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV0VQX2dZQ2Y5ZVpsX0hEMUJHVDNDMlZVYjRuNnotdXFnSjE5OGNyT3JiQWJtWmRHT01vQWxjck1TR0F3V0ozdUFoX3VsQkdzcWtRY3ptV0hNNUdyaGlHU0JVQTR2Nmk4TnFIQXVTRDhyTE1ZeGxYVzE5TVJCek5nb3Z3NUlza3d2QTBRY3lyTFZPNGlEdEI5OXpGSEdDQmFLcGZhX2otbUtpbDF5YllMZGxzTlBSdTlodXhVb3Njd2dlMDNRQ1BzQWNRQms?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Édouard Philippe",
+      "theme": "Autres propositions",
+      "mesure": "Présidentielle 2027 : que contient le programme d’Edouard Philippe ? - CNews",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-15",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : que contient le programme d’Edouard Philippe ? - CNews",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMWlTckg5b3hJWEpLQjVVT3dKa1lOcFBlY1R5Y184V3pKM0ZkWnhfaGJDWWl5R3czakdnU1lnSUYyQTc4OVpTaFJRblJ6RzJhU2NudUVlWkp0bHZFWlRZN1FBWWI3alhqbVRwck4xeGdwQTRDc05JYWh1R0R6Sm5zMVl1UHd3T2F4Y1ZlTWxNTnp0dGtmaXdyaVVvdmYycEJDa2QwSkVCd0R2TUN5WFJN0gG0AUFVX3lxTE5lS3NmV1RybUZvaXRpamJzb0lvbExocDNOb3VUalNWSkdSLXFnLXdKR19idVJsU3RWNG9nQ294Y3oya3l4b2NfWExwWTNDUDJqOHV2VkpYTHRWNFc3Smoxd0JGbUFhaW1qUnJQaktrS1ZOZVpVZEljTlBFRUlGeVdUb3YwSlRRWmY4VnZibXRBY2UxTUFGdV9EYVk0QkJpWEgyeEt2cjV0N2kxWU5iYjZlZ0JIRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Gabriel Attal",
+      "theme": "Autres propositions",
+      "mesure": "VIDÉO BUZZ – « Voler des voitures, c’est pas bien » Gabriel Attal imite GTA 6 pour promouvoir sa voiture électrique à 10.000€ - Entrevue.fr",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "VIDÉO BUZZ – « Voler des voitures, c’est pas bien » Gabriel Attal imite GTA 6 pour promouvoir sa voiture électrique à 10.000€ - Entrevue.fr",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeEpkaGk4dERaeGhtUFVJdTFUNTNNZmI2YWY4dGxLb09JS01wNGFpMjMxRW9nbTJ3dzNXOFVyRGt6VXI0WTBod0hGMi0xS0tLY2JVRWIxX3RlekZEYjhQOTd0OXI1MzdDcTZRZkp5cGVveG9GU1BPVUdfbUlSVFlxRDE2M2ZUNkZKWU9RWjlMVTJxeVZwdXU1TkNxbU1hWTRiU3c?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Gabriel Attal",
+      "theme": "Fiscalité",
+      "mesure": "Vous vendez un logement ? Gabriel Attal veut supprimer l’impôt sur la plus-value pendant deux ans - Capital.fr",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Vous vendez un logement ? Gabriel Attal veut supprimer l’impôt sur la plus-value pendant deux ans - Capital.fr",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQlNxT2hoNDhsbFNfLWx1SWZaSXVyakJXaXpJTm9NZ1JsbEIwOU55NlVVZkNWZURRYmotd21fbFZXUXdLM3JOelF4TUgyQVVoRmdYamtqeE1PWGpwLXlqVkNJckVTZ1FqUktWaGJZZVRic0xIUlRhWjdpUWxWMmt4dE1QWUoyNUk0T0g3NU9MTUxJckp0QmluaDBRSlRLUTZ2eEg1dzNlY2FyS2kxMW1oZlpyd0ZrRHRfSk85NFNHVWE2Rl9SQ0hDME1uT2d4ajJmTWc?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Bruno Retailleau",
+      "theme": "Fiscalité",
+      "mesure": "Cinq ans sans impôt sur le revenu, même à 300 000 euros par an ? Bruno Retailleau (LR) dit qui y aurait droit - Capital.fr",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Cinq ans sans impôt sur le revenu, même à 300 000 euros par an ? Bruno Retailleau (LR) dit qui y aurait droit - Capital.fr",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVWtQNzRUb013MGRRc3FPRmpuSG11dkl6NFZwN3JaWG5Ebkl1Q2dRSHctZHQ0bFNEMWN2LUhtV3A0UThka295N3UyMWdKVzQtdWtGUFo0VW9vSWF3N25OUVFBZUx0SVROTVJDLUZVY3oyaWhJVlBOMkhIXzhaZTJCTEN2bGtHcTMxZTlOdUp1TjZnclo2T2xweUhYUUhfTXl1TXpnMExVMXRjanZKVS1UaThlOWt1NjlkTzA0RmhsOGxWcDVmSldKbHBDYWVvT2xaQTdnRy1JeU9SR0xhaHcxc3JCRmM5QU9LZVE?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Bruno Retailleau",
+      "theme": "Autres propositions",
+      "mesure": "«Cette France de bobos qui tape sur la doudoune de Bruno Retailleau» : l’agricultrice et eurodéputée Céline Imart étrille Yann Barthès - TV Magazine",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "«Cette France de bobos qui tape sur la doudoune de Bruno Retailleau» : l’agricultrice et eurodéputée Céline Imart étrille Yann Barthès - TV Magazine",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPS0tqaXpOam5RaWJGcTFlVTFYZEVIeVNsR0poSFI4c2N1X3JFVVlkT1o3Sk1CWHpLaU02QmFKYWZtV2hULVpScnlIM3RKTWFoc004VzhYVzItbTVkY2hSWFgyVGtLN1I2UWJCOENFNXNwU29tRUJCbzBXTU1Ya3Vfd2pFc1R0bzM0X2R6ckhlQUg0T1k3LVZqQUcyNHlZc1VIeXNOazNzb1l3T1pOUXhqVUVxbUxnbTBoaGVJWDNXNk9xOVdibjhNSWxJdy1VWEZPX3hrVjNqY0xLdUppSG5LeWcwMElXQWNONmw3NGZYNDBBZXhaOGpEclhiWFBnT19fTkFrR1FCY056aXlBbWJtNGs3dw?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jordan Bardella",
+      "theme": "Retraites",
+      "mesure": "Programme du RN sur les retraites : dernier clou dans le cercueil de la politique familiale - Boulevard Voltaire",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-18",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Programme du RN sur les retraites : dernier clou dans le cercueil de la politique familiale - Boulevard Voltaire",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNy0ydG5sUHFpRVJveFE4UVR5MUJ4SnRmSzh0V1pLYjRLbmVnZ3VpZ1UyNzhNbzQwMlBLRFN4X1dLTnV4LXZGbXlRaW54dk5pc3FuTnFNY2NoVVQ1dmJPUWJWSWFzc1VEbWdrYmlBbVFDQlNZQndBQXk5VjJJNVNfc1NRSHdZWUMyWkFlR09Edk9ienJyVFpwNHRweTdraGdSZzRUbThNT2JmRkdycUR5SUtDR0JHZw?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jordan Bardella",
+      "theme": "Énergie",
+      "mesure": "Même député européen, Jordan Bardella a reçu le chèque énergie, ce qu’il promet à la place pour votre facture - Capital.fr",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-18",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Même député européen, Jordan Bardella a reçu le chèque énergie, ce qu’il promet à la place pour votre facture - Capital.fr",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaUNHU2lfalVudUY3S0lXTkp0N0VwY1E2ekJCSTlWZHJ6bHVEXzRxZ010ZTVDMFczeHh1OWJZdVJyRDB1d1pnX0xFQlAtQUpnMzZRZ1dDSjdIZlMyMUZ0c0lpME9EV2QzYU9GcGszeEpoZGI3ZXppcVVJVmU0RjlLdjA3SVlMMURRTndQMG1uaU9NRFRGSkdaS1Q3VWdCM091Mi1qOXJMWlptWmlqdGdnMHdmZ3p0LUtfdkRmNnZZZG1FbnlCR0ZDNEpmRlMxN3N3STREU3B1b1Jmcmx0aTAta2hIVEhLcXg5VG1BMQ?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Le Pen",
+      "theme": "Retraites",
+      "mesure": "Le RN présente enfin sa réforme des retraites : un projet tout en «tours de passe-passe» - Libération",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-17",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Le RN présente enfin sa réforme des retraites : un projet tout en «tours de passe-passe» - Libération",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOT2Z2Y01NOWN6bE5pblZfQXN1TGgwUXREWVlJc3Z6UzFlQTBCRi13Z1JhRU1PdnczWHRabXFYTFJsOFAtQmFHVXZFanBBbldIcVZoYk8zWWtsdjEyQkZCUXVPa1NURUxiVk1XTnAxbUxsUmE5X1R6V3V2cGl3RXJoYmFUZzUxUkxnaF8tdEluTWlhYnNGZy0zQ05uSERMbWU4aGwyb1RKV0RhVExiVVQxZEtrRXJjU0tNcW9YM1F0em5qc2d1VHdUcmtFMXhCbEROM3VvM2ZHeExlVlNXWEstT2ZkbFA5SXlVRjJ1S3VpSW9ab01rbllNdGdiRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Le Pen",
+      "theme": "Retraites",
+      "mesure": "La réforme des retraites de Marine Le Pen, cette “escroquerie” - Courrier international",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "La réforme des retraites de Marine Le Pen, cette “escroquerie” - Courrier international",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcFJHaWlHTHJfYkRtTE0yTDE2SUd4cS1iMjVRZUc3azV4YnEtLVVuOGhNbm10S3hMRTk0OWtCQVBqZUpFc3QyOE9za1FYNG9EOFl1eVBKWnJwUjNFZzRFeUNCaEV6cFNEa3BnNzJRN1RxeHhZTU5aNlU1YVNyUVdFdHZZbzZZS09sb1dlaW1zZXdsZlVjbEJMXzlnNW9HcHBRQ2tQa3pvLVU4cTktckl0SzVxV0VLQ00zbDZaSTRLNS16b0tOY0FSbGRR?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Le Pen",
+      "theme": "Retraites",
+      "mesure": "Marine Le Pen promet la retraite à 60 ans à qui a commencé avant 20 ans, mais valider un trimestre demanderait plus d’heures - Capital.fr",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-17",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Marine Le Pen promet la retraite à 60 ans à qui a commencé avant 20 ans, mais valider un trimestre demanderait plus d’heures - Capital.fr",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSDZsZ1pMWW90c3BkR0hqT0RMYVZlWFhRaTg5aFIxUFhoUnYxa1pXR0w5R08xZ0UxV0VHZTd0ZGgtUnlvQkdZNU4xRHFoMEhvdXNjclJTZUh0QVVrTG5HU1NsZnZKSnRQeVI3aUFfaGgtVWpubExNMkhCMXdTMDBxWWJqQmRvX2VrZWRrU0dyZlJZSnE3eV9IQXB1QXdJWDJ1Ui1EdXplcHRtOTJjbXpTTlRhdHJIMmtOMk51MUFfZk1FMElyU1F4ODdpOA?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Le Pen",
+      "theme": "Retraites",
+      "mesure": "Présidentielle 2027 : qui seraient les gagnants et les perdants du programme de Marine Le Pen sur les retraites ? - Ouest-France",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-17",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : qui seraient les gagnants et les perdants du programme de Marine Le Pen sur les retraites ? - Ouest-France",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOY1lCT3NSdW05ZVNlYUxmU2d4Qk9VVVdjWndCdmptc203bFBmSkN4SjJnUHBXT09rWUNUT3BrdUQtUUtQbEItc2FsSGMxRDNHXzdrMi13aXVEV2l5NXpvZDZOZklRTUxUdGhKaW9ybVlqeGRqVnp5WV9TeV9Ndm1RcjE2RnQ2bDVVYldLZldaMXlodzFvci1GODZjUXV6ZWZnU2hzNUZNWlNWQWlxNHc1aWhrZHF4a1k0TVlUQW5EMTE2NUpWdHRvQ3g5N0t5bkg5bmRDNm1NYm9NRnUwYXlvaUlkVnlBeEQ4NWg1MURHaFIxR0IyTDR1TFF1eHM0SFNIWnNReFZ6Tzg0ZElXSmMxd2hScHpNekUyWjFDQlFBOFdzWU1r?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Raphaël Glucksmann",
+      "theme": "Autres propositions",
+      "mesure": "Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour \"sortir de la crise\" - franceinfo",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-14",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour \"sortir de la crise\" - franceinfo",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPVHRvVmxlNTNDZHVmYjdlTUpYS0lQZFVwZXprMnhORm5jTDlCNGEwRmNKNmNsMkZnTEw5QUhqY0V2cnBWNi1wRjg4RlV4SURoZW9fd21uOTR4Wi1mRnhUZUtHNlpLN2ZMbmVnTWVSMVdmYUJuVjdVdjg2VXlmUW1tNXhCN0FzQlZrczFDV0hmT0h0MTJBR3lTMGVCTnZ5cDBMOFJVUE8tSzBkamozTlNTdEFXdzZnOXlqVHlfNHhzaWxJbXZlbDVFV1hucU96bHpOR2EyZE5QVEZ6c0VfWU1HaDIwNjVTUUxKZlFadzZEQmgtcnhYbkhFQXljaVZjQjBKWlZ3WFFtZ1JPV0hjZDFiU010el9LM01hTHc?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Raphaël Glucksmann",
+      "theme": "Fiscalité",
+      "mesure": "Raphaël Glucksmann lâche la taxe Zucman ? Ce qu’il réserve à la place aux très grandes fortunes - Capital.fr",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Raphaël Glucksmann lâche la taxe Zucman ? Ce qu’il réserve à la place aux très grandes fortunes - Capital.fr",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOUprcFFEdEp4NHl4eVpPZFR3NTVSbUZBN0hlbktSeDZPeDZsLWlJeTdKd09uTTUzNXJqRU43WkJITHZNZ2lYUzUwenNrYldKUzhCeENBVlQyWmFzR2tpRDZWcUVpRXhERmFiS2QybGMzZ1dzQllCeVhNM056b0FVMFlxQmNrUWdjRnpwQ0N2VmxZaUh4RTEtZTZnM2F5eUN4NmFsSG9FeGVVYlVteWxfMWZhYU9NMWFtRmVhUDVKRVU2NFZpcmc4Z2xkUEVja0MtOHVHeTQ5MjBlUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Raphaël Glucksmann",
+      "theme": "Autres propositions",
+      "mesure": "«Ils travaillent en France, cotisent, mais on leur refuse leur titre de séjour» Raphaël Glucksmann défend la régularisation des sans-papiers - Gentside",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "«Ils travaillent en France, cotisent, mais on leur refuse leur titre de séjour» Raphaël Glucksmann défend la régularisation des sans-papiers - Gentside",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR1NQVXRwdnY2elZrQllEU1IxRU5JdVJFRVBfX2JjTVJmbUNLbFZ2UWlhYjZCN3F3NVo4ZHNBNUg4VFVXbGNjNnBRWVpHRGFJSi1mWWVLbE1vYTljeGpRQ1JkRlRwRldBWTFOOWZzamx1eVF3UVBFU180aVh0OGdGbGFINkR0T1dyaGNhZHhkaFJidjJGTDJzSWZacUVtbm9oczVUVERVdjVfOHh2OVRpTTRBREJwOFAyNjF4aHo2b2tBRjEyNk1FbFA4ZVlJMktW?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Écologie",
+      "mesure": "Jean-Luc Mélenchon suscite l’engouement chez les 18-24 ans, inquiets des crises sociale et climatique : « Il n’y a pas d’autre candidat pour lequel cela vaille la peine de voter » - Le Monde.fr",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-20",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Jean-Luc Mélenchon suscite l’engouement chez les 18-24 ans, inquiets des crises sociale et climatique : « Il n’y a pas d’autre candidat pour lequel cela vaille la peine de voter » - Le Monde.fr",
+          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPajNKcmtMenZLWXk0WFNpYjVRSXppb2loOXpJejItaTVXQlNVYWZoLWpfNmY3V0h4UVlsQ0d2R3RHRzZ1UHJvd0VRT3h6cTNIN3ZaQU1yQkRIR3hVdmFxNWNzVnVMcnhHam1tOU5FU0lVTDRxLUdBSnhDci1MSTdJcWd1VVc0YmlTQVkzeVBmTk9idlRXelBQZVR6a2ZYOERPZHBzb2pDOF9ZX2luWkdvTE94NDBGaWdrenhWVG5sV3g2X3hWeFN2UFpQTE9IeXVFWnExSXBnWk9hVkYwZ25FdEJiQmNLY3lqbFBFVElHbnlGQkJxOTJGQ01OS2NNM3FuNXprRjVLSDI0SDZLRG1uZ1VwQmJDQW85dWc5M01iQ1psaEdhNGVUY1ZqZGg3VDFKMVpMVFFOSUZ3SlNOV1NCM3NibDdkSllRUi1ocE1HYWF1Z2lBcUJja25tYktDeWVyN3c?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Autres propositions",
+      "mesure": "\"Ça devrait pouvoir se faire\": Jean-Luc Mélenchon répond favorablement à la proposition de coalition de Marine Tondelier - BFM",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "\"Ça devrait pouvoir se faire\": Jean-Luc Mélenchon répond favorablement à la proposition de coalition de Marine Tondelier - BFM",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPQ05NTjFOV1U0cklJZzFFZU5Jc2FJaXpacmZYblB2cGZkdGZPR3JJUW43T2E2TGMxTVhiMXp1S1hvNU1xX1E1eUFXLWtoRFJ2bmFaNmZQbnk5MVlIM0xILVFzMkhEb1JtQUVGMnZzeUR0Ty02cnFQamwyYWN2ekZvOVNSNVFLSVRmYVEzMFktc2dlUWRXUUZSTjVIcnBvc1VwUGRHNDdjQV9IT1VuRURGcmthUFU1dHNTNHktUE1kbjVvOGFtSFlDbjhieHVrNHpSYTNWOEs4bm42QWdjam5XQnBNd0wtWVFhN0I4cFhCU2VMeG41NEVMZHNmUkpBamNlT1VlTWV4LUFQSEtXZS1aMWFlT0Noa19RQzAwZ0ZSYmc?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Autres propositions",
+      "mesure": "La main tendue de Marine Tondelier à Jean-Luc Mélenchon peut-elle faire imploser les Écologistes ? - Public Sénat",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "La main tendue de Marine Tondelier à Jean-Luc Mélenchon peut-elle faire imploser les Écologistes ? - Public Sénat",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenNoWTVTSVBFVW53TFFLNUk2ODlGVXZGQWJXTTdxdnRPYkVMWTF1RXBsWFVyWk92SjBGWVVVcnF6NjY2Z3VWYnFwOHRCeXM2ZENhLWlWQ3RRbS1ZOU9tcFo4ckQ3MFdfRnF4ZWU3SWxISDQ2a25hRnhJNlZMVzV6dmxDQ2U1dFYzSEllN0lhSmtKWjNfQWlYYnY4Slp6aTctS3R2OXNCenpSb0lzUURsZEVJMHI5Q0lVUW9pUDQwMXIycUNwY1NoX2Z0dUFxSndF?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Autres propositions",
+      "mesure": "Marine Tondelier divise la gauche après sa déclaration sur Jean-Luc Mélenchon : l'Insoumis peut-il modifier son programme pour une alliance avec les Écologistes - franceinfo",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Marine Tondelier divise la gauche après sa déclaration sur Jean-Luc Mélenchon : l'Insoumis peut-il modifier son programme pour une alliance avec les Écologistes - franceinfo",
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxORVFmMVExWDZsM2k4Y3BDWFl3akY1TVRsa2Q3c1piek5tTDg0QkFESUNWYjQzUG5xMDlJdmpJVnZNTHZPYWY1Qm5GaW81dFJOQjFuMmFXZUtMclpMZWZMMVpJNWFYZUh4ellDRVhYUXVpUlV5dGFFSnEybmtTVE9oZGl1VFdIUWFsNW9rX2RjbG9fRFNudnVvbWFZYmdVX21peDFZc2NUM0lYRGlxZzNBV3o0Uk9ZMEdwVXRlLVdJM1RMdW5senlQVFZOMXdfdWZOTE9UUC1vdFdHY3QySWZEWkdoYWJBTkdqOGh4SUswR2o3SUh6WnQxTWtCYzR4YVNzUE9jSGdoOVhTc1RjQ0JQV1IzeElUZW1qNlkxLUZ2aXFkTlVueHgxNWJ0NmpTNjJJSVdsZE1ITmZDTzdySU9kcl9DN2x2aEk?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Autres propositions",
+      "mesure": "\"Ça devrait pouvoir se faire\" : Jean-Luc Mélenchon réagit à la proposition de coalition de Marine Tondelier - Orange Actualités",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "\"Ça devrait pouvoir se faire\" : Jean-Luc Mélenchon réagit à la proposition de coalition de Marine Tondelier - Orange Actualités",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNeEREQTNnMDd0bFFHdy1UeEVGdTR3YzlXdGJzTEZJSXZTWkd3OE81RFRnNFdnbjltLXl0c1h5emVUNU1LNlhqX2RHOFBrVUVQcF9leVJDZGkway1SVjhtMkl0bWJpTmVwME5LTUdaWmZaYXlKejB0WkpwcVVXeFdDUkRXeUxXYmVWQVVWaUNGWXBmNElvbUQyX0R6MWZhMDI2dDZzWjdDOW5ESWhjRkVqUU5mdG9qd1ZTY1JMY2VWRUtjbHVLYjVuR01XOEtQRjZXeTJzSk1tSjRqTkRGcUwxQWZ5MHRCQlQ0ejZ6OUtwd3hDTjFRWlhoTnpZbG1COEJZblU0a1Z1c0x4Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Autres propositions",
+      "mesure": "Présidentielle 2027: pourquoi Jean-Luc Mélenchon va dîner ce mardi avec des grands patrons, dont Bernard Arnault et Patrick Pouyanné - LCP-Assemblée nationale",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-17",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027: pourquoi Jean-Luc Mélenchon va dîner ce mardi avec des grands patrons, dont Bernard Arnault et Patrick Pouyanné - LCP-Assemblée nationale",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc0JLNm5zS255S0FlRVZOeUdMajNCcm5yNV9VR25sVk1tUWhlakFwelpod0xiRW00QjNTMEh0ektvY21pTjJCY2dnNk5VeU9SeEZ2Q25UTmFVeHhzTFRaXy1oZmFRSFdDTVpWdk5ndEcwMEo1b2JNMjdlUEVMUDFOU1lySzFVYTV2YTEyc0F4YlR5UDdkOUlWMXViZExlZnNxVGE3dTRoSl9MUmc?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Autres propositions",
+      "mesure": "Programme LFI pour la présidentielle : «Nous proposons un nouveau congé d’accueil obligatoire de l’enfant de vingt semaines par parent après l’accouchement - Libération",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Programme LFI pour la présidentielle : «Nous proposons un nouveau congé d’accueil obligatoire de l’enfant de vingt semaines par parent après l’accouchement - Libération",
+          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNUThIdmpWdFIxZ3EtTzd2Mm9rLXVpWVJFb0tBc0habE1sOGVVTGV2MHozWDVyM0dxYUVwMS13cGpnTGJfMkxYRzROQnJCNkhHRnliYVRwVHR4R0NKZVE0Z3pLUDVLa1J3SkNHOVY4bDdkRzJqQ003NXg5X3NSdklCeTJkU1lfNV9QdWF4LTEydVZET2J3ekRFMnA2S18zRVdobVc3M3JQSWxweHhSQndjaEpZZEtwdVY4RlljVzV2V2pXc1BuYmhrVTdHSFYtaV9NU0NCalowbXlPR2YzUUVka0ZaVnZabTlWR2JiTnRTWnZmRDhZWmxUR3BReUZKaFhwd3p3NzNRdGlibEdnN0dyZmd6THN4NnZvbE5mdFBHVVpEWkxCZ3loODlteG4yOUlLaHlKOGYzX3hRZHJMbHI4aHhB?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Autres propositions",
+      "mesure": "Présidentielle 2027 : pourquoi Tondelier précipite le soutien des Ecologistes à Mélenchon - Les Echos",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : pourquoi Tondelier précipite le soutien des Ecologistes à Mélenchon - Les Echos",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTTBRV2htTHpWNjBqcDg1Y2hMRUJiMU9pZDFZTzlla05mQjh1S2Z2MEgxU1JtMHJHSmZXVW5oZTJHNUtFZk1OR0VKTEtIWkxNektoUDFyYmNoZ1RvaUNaakkwRkJEUC10MWVmdFA0ektPNjhNRExZbmZGZjRaWDhXYUlrX1FmcXhTRjJvRjlpRmZVdUUzT29EMW1tUDZwem5BODFJWnJHdkFMYVFCZ0M4ZzRBd0UtQUdDQXQ3c0dibEZiNVpuSW56UGhZYmhiUGNIMGJubWhzQkpFcEN2?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Autres propositions",
+      "mesure": "\"Je ne vais pas changer de programme\": Marine Tondelier revient sur sa main tendue à Jean-Luc Mélenchon en vue de la présidentielle - BFM",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "\"Je ne vais pas changer de programme\": Marine Tondelier revient sur sa main tendue à Jean-Luc Mélenchon en vue de la présidentielle - BFM",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOUVhMUlJnNDV0bUktVW4xS242blV2alJaSnVmQnYtLXFZTGk5UnJOTlhBTXhUOURiZ1VZOTJYaGFQSV91VzhTMTkyeV9ITENxQk1wOEFVdm16ZUtYV3dqZ0Z1blZXbHZqOGJ5SVdqNVctTmRvY3RCLUVqNjVEZHhwc2RWcGh2bjVXMk9Pa2lPM29vTEp6Nml3TkJHZ3cwVVlOb2c5UGtuZXJVRUJ1NlpNS01PQmo4Z3pBR2FiWEYxbjhTWmNDdUhSazdZYVN0RkxTVlhobUpta3FkWURPSWxkSFEzWFBXSFZKb3hzQXN0OFItUTBwR2kybk9BX1hTYkU1ZGJMV01ZVlV4REJFNkFVVEdyT2Q5cF9ucnpmMWduMGl6TXRsOXJGbVI0bjRpM1U?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Autres propositions",
+      "mesure": "Coalition autour de la candidature de Jean-Luc Mélenchon: \"Nous sommes favorables à la proposition de Marine Tondelier\", assure Hendrik Davi, député \"Écologiste et Social\" - BFM",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Coalition autour de la candidature de Jean-Luc Mélenchon: \"Nous sommes favorables à la proposition de Marine Tondelier\", assure Hendrik Davi, député \"Écologiste et Social\" - BFM",
+          "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQT2ZubG5ITTJLS2Q0UEFMUWtieVIzTVFXeTVWd0trUTdUcWMtOEg2Y2xJT2JmemM5dXY3ZEl4eVlzQ2Zsd2tzdDhmQVhvWjN0c24wLUoySVlQcmp1ckxXX2VfdzQwMWZDNDZ4MHRBd0JjaHAxNnpQb1BWQTNXUFhUX2drci1FWExkaTc0U19WZmxWYWx1QTJHQXYyZmVhdFlEX21KLV9rSFZyaTloU24xb0ozSjZiY25GNnpxSTFJQ2x3RmZlZTBzaFUzbFE4MFNmOHlQNTU5SnJ5NjVuY0xaYWxNcDRVQlVwZS0zbURWLWlSd3laRXJqeEQ3VXNVRGJ3cGlMQlZNTVZKZ2hBREVBVUJnUDk2TjRwU3dUdXVjYnJHZW5Ka0QycGtKZ2J6OUZJLW5hQXhzR1p1Q1dfSTRVWWtBZGV1dnNvYVVxLTU5eG9tUi1iWHdNYkxzMENEOGhxMy1oc25PNA?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Autres propositions",
+      "mesure": "Présidentielle 2027 : Jean-Luc Mélenchon construit son programme L’Avenir en commun autour du concept de « nouvelle France » - Le Monde.fr",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-06",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : Jean-Luc Mélenchon construit son programme L’Avenir en commun autour du concept de « nouvelle France » - Le Monde.fr",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNc1RnbmZOY0s3YUhKaUJKaUxETEJsOTNjT3hJVXMtRmh2MmlLV29zTkFSOGJLWmpQWmZlclRQYS1ObFZhZEFkb1hZd1dHYlc4UVl0cEdJdnNkRzlIc1YyOXhVeVk5ZUhpVDdBVW1UZ2x6dUZfbG9OekpsbzhRUWs2SmxESmN0VGI4ZEpodjdvMmpMeUwxMDFrZUdBMkZhQktmdHBQdnE5NFNQMFA5ck9sMDRUWHJoMEFkdTNCWFZKcTRTVXotdzQ0NGFXSzNZWmNnRUNtX3lxc05PMDhiU0trM1lhLWN2WGRWOC1WYkdUUzVncjRSMDFxX2VObDI5ZUdGdGJ2ZDIwZ1hPNElrLXg0Y1pqRHZzYllPT0E?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "François Ruffin",
+      "theme": "Autres propositions",
+      "mesure": "Présidentielle: François Ruffin veut supprimer tous les avantages des anciens présidents de la République - RMC",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-02",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Présidentielle: François Ruffin veut supprimer tous les avantages des anciens présidents de la République - RMC",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeDJFaGpINXZ3T3NkS2hoSC0xMEpXY1RVWlg0WF9aTjd2V3JFelBOaUxic2U3RXMyY0VjZ2poTGU0YXJWcjlTSHRWS0RpTUJoRXpPVUlDTkZRblN1UUR4VzNXOUg1dUVmWWlXdXZQV25nMXAzRWxoaGQ3aWhhdjN1ZHpfVGR1WDctcXlhV3JfZjVMQTh2aHZxNlQ0bzMzYldIcVd3Ml9fMk80NnZreEVWZmNGbnBCTWRKZkprYzR3VkNoNlNVZUtRWlVJT1RidnowUzBKaGtPQjgxTlc5YlFScGpPZmtmMVpucE1MWWI3dng0Rmc5RVMyM2VHOWk?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Tondelier",
+      "theme": "Autres propositions",
+      "mesure": "« On a abattu la dernière carte qu’il nous restait » : pourquoi Marine Tondelier s’incline devant la dynamique de Jean-Luc Mélenchon - l'Opinion",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "« On a abattu la dernière carte qu’il nous restait » : pourquoi Marine Tondelier s’incline devant la dynamique de Jean-Luc Mélenchon - l'Opinion",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONlI0ZDhBMEJSOG12Y21POVFmNjJCR19Eb1g1RnpIdWlYdm0xTHpfejRTYjVDa2RoWW9zMFBxY1FldmpzR3RvUHJMd1JXV3BNaUIxd2MyRmV1SFJPM0ltV0N3Szl0U1hjcXlqQjJiQl85b09jT1lZOXpDaGpHLWNIcVp2eUxJN0dnSVNkWVZQQjM5SGlOQ0ZFYVV5N2ZaT182RG9jNE5lY3J1ekhjRnlwcDVmenVkc0R3NVdjSFVCcm9qczBIcDU3S2h1Mzcxa25PU2EwVU9NX2hKWkt4VGVNcHJ5elVnZGZaZVVxTWhUbw?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Tondelier",
+      "theme": "Autres propositions",
+      "mesure": "\"Je ne vais pas changer de programme\": Marine Tondelier revient sur sa main tendue à Jean-Luc Mélenchon en vue de la présidentielle - Yahoo Actualités",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "\"Je ne vais pas changer de programme\": Marine Tondelier revient sur sa main tendue à Jean-Luc Mélenchon en vue de la présidentielle - Yahoo Actualités",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIbGdmMi1JV25Hekwtdjhqa05nVXR6Y3JzRnN5MEFBU1phUG5ULTZzc0xZU19rWlFQTEVpUE8xRWpzNHZ5elpJVVFwYTUwaFdfa3pJem5nb0dvUWlySmdmV3VZMmx3Yi02WVBRWGwyRjRQVks3azVZcldqWFNkQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Tondelier",
+      "theme": "Autres propositions",
+      "mesure": "Présidentielle 2027 : Mélenchon accueille favorablement la main tendue de Tondelier - Anadolu Ajansı",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : Mélenchon accueille favorablement la main tendue de Tondelier - Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcURvbWw1eGU3V0t3Vmg0ZzJCN2J0dU00bU8zQXI0d3dsaTNLS1ZvLTBPNVd0NnQzTmFqaG9wRUhtU29ucXIwUWhjZGZYUG84NXhUbGMxSjJEc0tVVU1DQ3J1NWNVTml5WDBiOXg3U0g4czFXZmxTRG84Q0x4LVYtdUlnMGdGaTd4M0F1ZUQwMzNnY2YzQXVtU2lEcXNMYkpYU2EydWZLQnNtVkxiMWFzVXFYSVRqLWRoeEVYYXJ6WnVNbVgtNDdCeDV1b2FMc2c?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Tondelier",
+      "theme": "Autres propositions",
+      "mesure": "DÉCRYPTAGE. Présidentielle 2027 : après Marine Tondelier, d'autres candidats pourraient-ils rejoindre une \"coalition\" autour de Jean-Luc Mélenchon - ladepeche.fr",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-20",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "DÉCRYPTAGE. Présidentielle 2027 : après Marine Tondelier, d'autres candidats pourraient-ils rejoindre une \"coalition\" autour de Jean-Luc Mélenchon - ladepeche.fr",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPLThYU0hVbjJHMkpDaEpvdHVZelAwVjI1WGZJeHBSZGVSazdzTWZIbmgzNGxPaWZQSjV1TktnM1daWVVoZFB0b3hjbnY0SXZTRlRQU3UtZm4wOFhOb1ZrQTI1Z0x2NDNNMEVpUGhmMUhoUVR4WGljSjZnd214NHN3TThjM0x0SmdwTUdqbDdUNTdtRFpzSFBWOVlaV0IyeGJ3MDFIUjRySnBkVjBuUnFtTEVKaTh1dVFLOXNHeUlGWHVJWlRlcGFSd3RQYmdKWnp2T1ZTb3NKeXhUQjVrVXRPWjVnNGVTUDI5N293MTRibDZVV0s2OTVFSExxelI0TlFRaTBfQ011TmJfUkNhTFAxYjc3ZHk2QVU?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Tondelier",
+      "theme": "Autres propositions",
+      "mesure": "\"Je quitte ce mouvement politique\": Yannick Jadot claque la porte des Écologistes après la proposition de coalition de Marine Tondelier à Jean-Luc Mélenchon - BFM",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "\"Je quitte ce mouvement politique\": Yannick Jadot claque la porte des Écologistes après la proposition de coalition de Marine Tondelier à Jean-Luc Mélenchon - BFM",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOQ2RKa2d0ZmZHbWdoME5KOUR2cEJPQnlrVlVZaEt2aUtwNVQ2YS1BQlRZQXVNUWRzYnpFeWc0OVBZMFFJalNmSG1lcE16T19Lbk8xRXhacHZRNGRzLXpEQUo3SnVYbW9nV3pRTXBGUmhjR1A1QVFDM01FNHpnU2tfOV9qcWRZY3MwVVBLMkswTlpfX2IwckoxTXpKNDA5ci1fLXpwYUxMamNQZHJKZDFWSkZkWUFzeVR0aW1vaUtRbC1KWUk2OTZ5eFZIX3lYOFBZTU03bkpvWmp6b2VzT3ltZElib1cyOWdYQ1lVd0k3TDFwWndmeFYwaG8xRmVpZkt5RnZWMl94eWVsb0ZzYUxpOThaYXFXUHdpUV9ac0tCSlJCaTk2ZzVqTWdjYWJLbXBidXhpTVpMekZRbllQRjVpN2w1cXRFYloteTlkX19BeGM3dw?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Tondelier",
+      "theme": "Autres propositions",
+      "mesure": "Yannick Jadot a annoncé “quitter le mouvement” des Écologistes après la proposition de coalition de Marine Tondelier à Jean-Luc Mélenchon - BFM",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-20",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Yannick Jadot a annoncé “quitter le mouvement” des Écologistes après la proposition de coalition de Marine Tondelier à Jean-Luc Mélenchon - BFM",
+          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOcGtiYjBqZ3RkRzh5Q3dpQ1M5bDJ6VXJhWjNveVA3UFA3NHNoVHp3UURjV0xaTUFiUFVFM2ZxbW8ybTVfbHI5cm5nTVdkUkFUYkZkMmVrOHlwLXp3UFc3Wlg3ZlgxVWlLUVpabTVSRHE1OTdrcWVPRnp5OWE2Wk1NSE9zSTNxNWl1TFhuRDcyTUR6Xy1CVGhpdGVxSlNKVm0yWHVKdmFyTFprbUZPUGVTS2x6dDZaZFVhNy1BTUJzdDl1dHVZcXlCb1RDYWNMcmdreVRHVmtKV0pZS2E2dDhScW8wMURONWZTWjhvalZyeXJmWkM2c1cyMkl5bElSa09tanR2WFlpcFh6XzZYamVHU3lNN2g0WS01SXo1M05Zem5NU25zYnRJXzA1UnVMcHpqSWtuU3hnMk9OcWxiSlAyaw?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Teddy Riner",
+      "theme": "Autres propositions",
+      "mesure": "Présidentielle 2027 – Teddy Riner candidat : programme, idées et propositions - lejdd.fr",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 – Teddy Riner candidat : programme, idées et propositions - lejdd.fr",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEtaM3MyXzBtVlM1VUVoUkd6Ul9PY1IweWJQUzlfcVcwTjhlaV9NV1l1eExEY3JzcVU3dTI0SnFGdHBHLTh1OUJPbk1TMGM2d3duSC1vT1Y1a0pXZkpteWstLWdZVjk1eGRNYzFxalNLVmZtZGs2MXhrRHRuWDBKaXlmd0V0aGwxMnNQakw2MGoxb0FWS19kMndFUk55VEhkcGIwblFWU1ByVWRWRlQw?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Teddy Riner",
+      "theme": "Économie",
+      "mesure": "\"Est-ce que vous faites ma taille ? \" Une entreprise normande relève le défi de faire un jean sur mesure à Teddy Riner - ici.fr",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "\"Est-ce que vous faites ma taille ? \" Une entreprise normande relève le défi de faire un jean sur mesure à Teddy Riner - ici.fr",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTmVuWDYxS09vSHJUY3ZROVItbWlNWGVoaGFDbUdCRllJTWs3ZjJjTkVpTHdNM25oRzU5dE9yWmFjU2dYUWlUMmlPVFpveVgwcHBtcmliMjNwSGpEdzh4TmNTalBpQ3g4VUVjSzA4b0Qxc0JHZm9SaUJmektEQ2k4TGcwdjRlUzRJenRicjNZZlk5Q2JsdXo0ODdmUDNrSzBaOEJYZkp2NDBwcDEwS0tPTDZDN2hkOXB2ZFJOeFJOUk9YY3NUT1lGb1J4T0lHd2ZHaGhkV05tTlpPTGhBMXlldFlHMmYwWmFPdWNJWWtkZw?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Teddy Riner",
+      "theme": "Autres propositions",
+      "mesure": "«Je vote pour lui» : Fabrice Luchini et Carole Bouquet convaincus par la candidature de Teddy Riner - TV Magazine",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-19",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "«Je vote pour lui» : Fabrice Luchini et Carole Bouquet convaincus par la candidature de Teddy Riner - TV Magazine",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMmdXdVVMcmlLRV93TzRGS1k4V1JoRS01Y29RcmZwNC1kdkttQ0w1SFJENk1XZFBtTjV1UHUzYnVUMDRoZW1XMkVFaUJIeU1DTmUxbDR3bHQ4XzMzcUxiN05NaWpSaWFoaER6ODE2a2VBRXFtRWhndHFIN2VweHh4QWZMWkpMM0xkMUtrWGxVeFZGOWlhUmpzeEpDbWdsYUU4aDdPRXZuUld2RGtZTjNOSFNfVURGVFd4VklhUFFTMHhqR3NwNENrNVl4bW1XUVR6OEJFMGd2dW8wN0xDa1RyVHRTdXJNQjJU?oc=5"
         }
       ]
     }
