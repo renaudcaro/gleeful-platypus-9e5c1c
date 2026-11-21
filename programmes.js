@@ -7,7 +7,8 @@
     'David Lisnard', 'Édouard Philippe', 'Gabriel Attal',
     'Bruno Retailleau', 'Jordan Bardella', 'Marine Le Pen',
     'Raphaël Glucksmann', 'Jean-Luc Mélenchon',
-    'François Ruffin', 'Marine Tondelier', 'Teddy Riner'
+    'François Ruffin', 'Marine Tondelier','Teddy Riner', 
+    'Dominique de Villepin'
   ];
   let db = { propositions: [] };
 
