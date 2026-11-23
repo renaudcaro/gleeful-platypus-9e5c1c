@@ -1,6 +1,19 @@
 {
-  "derniere_mise_a_jour": "2026-11-22",
+  "derniere_mise_a_jour": "2026-11-23",
   "articles": [
+    {
+      "titre": "Projet de loi de finances de fin de gestion pour 2026 : examen des conclusions de la commission mixte paritaire - Assemblée nationale",
+      "date": "2026-11-22",
+      "type": "Repérage documentaire",
+      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
+      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
+      "sources": [
+        {
+          "titre": "Lien vers la publication repérée (Google Actualités)",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSFBGaElvcXN6N1p2UDkxWUp3dGRHeUdKdFowSVhUeUpsNDJRMjI1QmVySE9pYXZfelphMmtWX2JTal9pZjhSX0JMc3Y5OXZBTDFFRzNfUEFIbHFfZ2dvMHRkcHh5ckNxaWIwWHlBaks4bTZqMHdGWExaUVZWM0U0R3dBQXhqbDRCRUxSQjFBaWR1Y09rQllPNGRmbUZxLWRYcFN0UDNkMkdwbGsxdEY1SGtiM1packJQanlaYnA1Rk43dVpfc09SY2JQbV8zYUJhRFcxRFZPcmtDdnk0WkFQMGNZNFVWR3p2dHhPWnN2aHhHVlV5VjlINFU3Uk5PYjBk?oc=5"
+        }
+      ]
+    },
     {
       "titre": "Reconnaître une présomption de légitime défense pour les forces de l'ordre (PPL) - Tableau de montage - Sénat",
       "date": "2026-11-21",
@@ -102,6 +115,45 @@
         {
           "titre": "Lien vers la publication repérée (Google Actualités)",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS2g0WHRRNGFVcnNYYzdFWnhJYVh0NXZYVjA5c2FieTE0SGRWQTktMHp2TzR5YU1yS0lwdlowZlh6ZF9kUGk5SHB4TG9selBkTEk0RV9Zc0VBZV85dFY0cUw2V0VQZ0FTZldISWxaVWRmN3JQMzJjVFhmOUxRRkVIZ2JteWRoVTJ3X3BmVXV4NlcxNTR5RkZPRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "titre": "Systèmes d'armes autonomes : vers un cadre juridique contraignant ? - Vie publique",
+      "date": "2026-11-20",
+      "type": "Repérage documentaire",
+      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
+      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
+      "sources": [
+        {
+          "titre": "Lien vers la publication repérée (Google Actualités)",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTXI5cFZnXzZpQXNoV3hnYXExYVdGZzUzeFRFWFZydUdxZGhmM0s3SGpSbXFSVE9tbUI1M1lQd0Y2SmhQQ3QwUjh4ZFVBUW1LZ0xVRGtXRF9GZUtEUF9ZT2xrdUoxT2ZINWFNYW04TkpmTkJucnFIdGJqSk04X1UyZjJFNW52XzRUdktkSHg1MHlsb0ZIbWl2RjFjakM2elptZjR5YTNaajF0RzF5R05BY2hxbk1vckk?oc=5"
+        }
+      ]
+    },
+    {
+      "titre": "Droits des enfants à l'ère numérique : une forte demande d'accompagnement - Vie publique",
+      "date": "2026-11-20",
+      "type": "Repérage documentaire",
+      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
+      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
+      "sources": [
+        {
+          "titre": "Lien vers la publication repérée (Google Actualités)",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenFja2pjT29zbktOWkU2c0paUk1tMS15ZWhHUUkteE8zZHIza1lLU003THhYQkY3UmhFeWZVZUc3N0E0cFYtc0k1X3p1dHloY0htWUlNZ0EtN1pKaGd1S1RhVEJGVnZBRTV6aUpzMTlBQ0tMTXh5TWFiV3JoSElaeENVRmR6dGFNY1JmaG10d0R4VDliQmgxZGd5RzJkX1IzTnBfRU9Vdjg?oc=5"
+        }
+      ]
+    },
+    {
+      "titre": "Séance du 20 novembre 2026 - Sénat",
+      "date": "2026-11-20",
+      "type": "Repérage documentaire",
+      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
+      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
+      "sources": [
+        {
+          "titre": "Lien vers la publication repérée (Google Actualités)",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lVUY1LUhma2dpVFBpTktWTUxjb3RLeklSV2pxOXVsV3hlSFc4SHdFdTBGOUxZWF9VMHFmMXc0YkFGVnlNc2tXSXEtVW1XdTJnYWFQREJnVjRaQ3JBdnJWdFMzelBuQW9PRzVLaFlZWDRLLVU?oc=5"
         }
       ]
     },

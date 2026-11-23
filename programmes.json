@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "derniere_mise_a_jour": "2026-11-22",
+  "derniere_mise_a_jour": "2026-11-23",
   "description": "Base documentaire des propositions politiques pour la présidentielle française de 2027. Les absences ne signifient pas absence de position. Les propositions de partis ne sont pas nécessairement des engagements personnels pour 2027.",
   "personnalites": [
     "David Lisnard",
@@ -5608,6 +5608,386 @@
         {
           "titre": "Pacte jeunesse : les propositions des lycéens peuvent-elles vraiment infléchir le programme de Gabriel Attal ? - https://www.parlons-politique.fr/",
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSEFiYkxMb1FYLVBINGVmTWhENzY5SnFNYXFsN3BBMDNZWDhjbXgxMTlRVEhDV3NVTWhQM2R4M0FIZnZ6dVhNak14a0pUUy13ZnJiRzVpLUU4MDM1cnZRSU45bGFHRGdqWmZjRHRvR1NvZ0NDengyei1UQkJmWXFuRXh3dkYwNHM1enNHNFFaTVVFNEhJVUpsUkdQcVEtemUtUFRNNEhHWGNLOUdqWUlPNUxndnp4R2Q3bVE4elotX3VMQkFhcVY1S05vVjNBejEyTldVaXBMSk1LRlh0OFJkdG1fREFmejdDMEtwSw?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Gabriel Attal",
+      "theme": "Autres propositions",
+      "mesure": "Présidentielle 2027: Gabriel Attal veut une \"grande primaire des démocrates\" pour éviter un second tour RN-LFI - LCP-Assemblée nationale",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-10-29",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027: Gabriel Attal veut une \"grande primaire des démocrates\" pour éviter un second tour RN-LFI - LCP-Assemblée nationale",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMi1rUjFZSVVWMm1QS2xzU1JGYWR1VG14Wnh1R0lNSGY2RFBMd1pCeUlNdTJ0V2xmeGtyaGkzbkxmWERyd3lPVzFLa0RQS3QxLVFvM21qOUdHMU56ekFIbGxPa3FWUUY3Q2d5R09SUXd0ZDRKTks3b1otXzVxeWp1SlpOZE4tNVZ1ZzAtckVkbjlfRjlhNTMtVlFVbzNkQ2U4ZEExTHhhel9Bak5KSlBRS2FiNV8?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Bruno Retailleau",
+      "theme": "Emploi",
+      "mesure": "Bruno Retailleau propose 6 000 euros d’aide à l’apprentissage et un plafond social à 70 % du SMIC - Politique Matin",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-23",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Bruno Retailleau propose 6 000 euros d’aide à l’apprentissage et un plafond social à 70 % du SMIC - Politique Matin",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzhxSE1aUUhuTUJyQm80QjI5bDJlMzE4SzIxRVZBLTlxY2JOZWFtbzJQX3dZQTFJdXdTQVRoa1hUV0JTWXpZOHVid3ZSSXZwcEZwUEZLYjRFZGJjU3gzWS10VklLUzJTa2hTRHpsNXIyWjFkbUdfUG5wMHN4b2FnVExZX3NJNlotekJEY2JXbTlMMUVGa3liQWNDSDdZbnh1eDlIRzljZWctbXFlZGc?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Bruno Retailleau",
+      "theme": "Autres propositions",
+      "mesure": "Anne-Claire Coudray : après Édouard Philippe et Gabriel Attal, quel candidat à la présidentielle embarque avec elle dans Route nationale ce dimanche sur TF1 - Télé Star",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-22",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Anne-Claire Coudray : après Édouard Philippe et Gabriel Attal, quel candidat à la présidentielle embarque avec elle dans Route nationale ce dimanche sur TF1 - Télé Star",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNLTMyTUhRQnRlZTlSMjhaVHBtM1Z1YWhlTHdfcXQ2WTlVd190Z3dORnhEQWdFSmtXaVJkNWsxYkZjWFBiUTRNUGp3dzJvYk5GZmV5Z2NvR3NTd3lMZ19tODJLcGdQTlRjWFJUNjl5Q0tCbUxHVkh1ckNsTGxKNTlXU2xuLWRyZzBBOGFQcVZVNXFkWTFudzJoMzZDanhIUG1qaWNDVkRqVWI4bUtOM2F6b0d2bnlZZlpCT3hBWm5mdmFsQUlMTnpTZFVYWXc3bDY4S3hwUUh1VFhzQ0ppVi00TjlWVzJlMDJvNkhyMEliTlg1eU5pdmdqMlU4RkpwaGxXUEc1OGVmMlBBOVcwRVB1c2lsT3dBejAyMDFYeEF3?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Le Pen",
+      "theme": "Autres propositions",
+      "mesure": "Marine Le Pen attaque David Lisnard et son projet de \"broyer\" le Code du travail - BFM",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-22",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Marine Le Pen attaque David Lisnard et son projet de \"broyer\" le Code du travail - BFM",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQckNZY0FkcjlxMWJDTlNMQVF0U1FxLTdjLWluaTU0MFBwSE5KdkltRWFnSk5lSEY2LUJpaGJPX1Y4LVBGUkh6eXo3QVNGRnRJM3E0VGoxZThoc2g0ZmpDMXl3djdCQUxhUV93S0JUYnR1QVJKYTJVd1JIQ3FUcFRHNndWYk9Ka3Y1cnczTU1uMUQ0QTlKRkdwMS15SmRYZjdRNDBReU1PbmQ5MjNuaVdGekN5a25WOGI1bVZMRnRQUEc0TGZxTUstdUkyTmdrM0VaanR5RzVPVjNzZ1FLMFlDb09tX3NjVDJBQjJmdg?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Le Pen",
+      "theme": "Autres propositions",
+      "mesure": "Le patronat dîne avec Mélenchon ou Le Pen et s’entiche de Lisnard - La Lettre de l'Expansion",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-23",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Le patronat dîne avec Mélenchon ou Le Pen et s’entiche de Lisnard - La Lettre de l'Expansion",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSGNvSlc2RGJXMy04OFM4b0o1QXhLemVQcTNtUVlINmpjaHV4RWNKMXctT1JwamR6dGpqTWd6azBSNTlvZ0Q5RnJGc285UXNoRHlKcEhWMGtabnVFRTZiTXRLMnNYS1l6NS1LcUxic2Z3NGJXeUlZRmhJNGtiLWVadGJhMHdjOGhUc2hoVW5pNmJNcXhsNHVGc3oyQnZWWktjMkloaXBrb0pJbjc4TVJxRF9IdFd6UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Le Pen",
+      "theme": "Retraites",
+      "mesure": "Père de trois enfants, serez-vous perdant avec la retraite du RN ? «Oui il y aura une perte», admet Marine Le Pen - Capital.fr",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-22",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Père de trois enfants, serez-vous perdant avec la retraite du RN ? «Oui il y aura une perte», admet Marine Le Pen - Capital.fr",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU0JsOHl3cnotODFFcDZuMHM5SFNNelhsdUZfY1FXd2REbXdZM0dNakREVUVpX0d1OG5GSjZDUVJTLVFYTVZDS2lrMTJqNVVxeEpHWGZTVVlwNmFteDBESXFOM0hxMDkxRGlfV09yeGdXRmNZZWhlQm94WWtwRDBGYXpDaXVMckNzWExydjRFZ19fVEpjN09LTjBQRFc2R1NlZ1MzUkdOWXNXYjVfUmlxSldIZzVMdFkyYm1Xd2w5MFJybTcwQUxwZzhDdlg2eUVOUjU5aWFjZkp2anZxZDBQVVpXbWcwYnNB?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Le Pen",
+      "theme": "Autres propositions",
+      "mesure": "Vous travaillez moins qu’à mi-temps ? Marine Le Pen veut pousser votre employeur à vous donner plus d’heures - Yahoo Finance France",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-22",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Vous travaillez moins qu’à mi-temps ? Marine Le Pen veut pousser votre employeur à vous donner plus d’heures - Yahoo Finance France",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRWhTU0h0Sm9HQjlzWDZZOXM4X3M1d0JDUl9YX0tEMnQ4U0lQaUljVEgwM0hYYmw1bnpPVzdHdnhsTXh5TW1ZNWVyWi02a0psSVExdkgwRFR5ZnV5eWtzRk85eEtPRzI0ZlJ4OWVuNjBxUjdOaTBDU280dlAzZTE4Sm5zTFQ0NzA1cEYtUA?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Le Pen",
+      "theme": "Autres propositions",
+      "mesure": "Candidats à la présidentielle 2027 : un candidat jette l'éponge, la liste complète et à jour des candidats - Linternaute.com",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-22",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Candidats à la présidentielle 2027 : un candidat jette l'éponge, la liste complète et à jour des candidats - Linternaute.com",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOakJOcVJIYnFDQkl0OFVKcmREbm5TeVlEb0NPLV9NRDNacmNKT1RpVmU1dVFDYWtFN1FGMTVXemJsZWRTbjlhSHhUdUZmM0trTExPYUtuQkNhTnU2TndHLWtwbFZjbG9XQXR5VzFDVEFvT1dpZWZNZkcycUZxM2NHb21XVjlEdG9PNnFJbzhmXzNVaktVczNYMU9UNmxZdkdLaExRUnNaTFFSQlBoUHMtNVFGX1ByZnZqZzBESzYyUWFBQ0szTlNvaElkd3FLYXpLR2xtSzl6UTBfVVQ2clpSQWcyOFpDdXhpbEV4OU4yNm13VDg?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Le Pen",
+      "theme": "Retraites",
+      "mesure": "Marine Le Pen sur France 2 défend la retraite dès 60 ans face aux objections sur les carrières hachées - Politique Matin",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-22",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Marine Le Pen sur France 2 défend la retraite dès 60 ans face aux objections sur les carrières hachées - Politique Matin",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORXNBcHRKem9ya0JVUFAtb1RuV0ZiNkdXX0xZeTFPRExKbmt3dFUtWGQ1R1FVZ3FtUF9RZ0JpN21MWTNPY2tLdTY5NW9rNjh1dmw3YUJfcHdVQ3k2NXJqZUNnb05CRWNQQ3hMRFRuX3pfTEFBNjBBOHJuWU1MMkwwUHRVeTFEREpNTkk5dGE4cFZJZ3JzSkRvZW9saVhRbXJ1SW9IaQ?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Raphaël Glucksmann",
+      "theme": "Énergie",
+      "mesure": "Raphaël Glucksmann et Yannick Jadot s’allient sur le dos de la lutte antinucléaire - Reporterre, le média de l'écologie",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-10",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Raphaël Glucksmann et Yannick Jadot s’allient sur le dos de la lutte antinucléaire - Reporterre, le média de l'écologie",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdmZ3a2xpN2ZHbS1qYUpqUjVkNXFoU3pGZEY0YkFzSmU1LWNBaC1RdXI2Rk9CRDh0QUpUV1ZTdE9Vbk94WHBXWWdPY2ZHV3VVMnVOcG85UThvdS0yU014ZWlCOEJiY1lKN1gtckZpeVY0cjhPY2EtdzRTeUFFeGotZ0N5LTZfTlRRMk1wRlNidUs0Q0JnN0Z3YTNMRmdGMFl3VHpGUUtTTlE?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Raphaël Glucksmann",
+      "theme": "Autres propositions",
+      "mesure": "Présidentielle 2027 : Raphaël Glucksmann met 200 milliards sur la table et invite le Sénat à voter en faveur d’une future « République écologique » - Public Sénat",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-09",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : Raphaël Glucksmann met 200 milliards sur la table et invite le Sénat à voter en faveur d’une future « République écologique » - Public Sénat",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPSk9lLU8wSVZZbE9FQkRmY1hqa2tCVnF0RzlDSVlwbUItajdjZUY3VkhhTWUwNlVrOWdUSmw2NkF2Slpla243N3dHRFRic1pkWno3OVByU3RHUDlqNG5aZnlwWmktWUM1VGlKdUVTc1JtZlEtbHo4UTBLbFFna29WVlhXMVBlTC10c3lBN1Z1WXM5cFpOY3pJWFBDb2xrS3pXM2djM0plUXZ5SklxQ2tjZVZlREFzYS0xZHNMaXRacFJ2aXRpNWc5NnRQQy1RUzdkUFY3NkpEdmo5bENuSVlzSFJVWjE0X3ZTaVprSGpwZWF1TTg2Y3JOZlFwaHhRckFjbmZMVlNOOGFiMjU4X25tZE1UMTVsRHc?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Autres propositions",
+      "mesure": "Du collège à l'université : le plan de Jean-Luc Mélenchon pour supprimer toute sélection des étudiants - L'Express",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-23",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Du collège à l'université : le plan de Jean-Luc Mélenchon pour supprimer toute sélection des étudiants - L'Express",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQ1ctbVhBSkdJU2hCUzQwTndzQk41eFZkR1F6bXVLTzN4LXNLa2Q5dWFxaEg3Y0xBaWdOZVQybTJfLUt5Z1h2akNwVEpjMkNzRWJMMmxteFZsQURQTWt6dkh5MG1pSU5BTE9HaU9vYkZCLXVIT3pEemNaZkFseS1ZWEhQVHBWbENlSUZoVVo4a19ublVFa2RpZmphLVphX1VGc0J4T3JLRlhEWHdvTGhMdmd4Y2pZTUtiR2NZMDB3aDB6UDBrdlh5a1BDUmJvREdhdEYzb0hLWnVKVVRzMVltLXZJTEx2cE54cjZhb1VlNA?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Autres propositions",
+      "mesure": "Le programme de la Nouvelle France - TV83",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-23",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Le programme de la Nouvelle France - TV83",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PN1dtVy1hd0poZjZxOHVnQ0VRb2h2dGpsaUZuLWZHQlFPNXNoNFplRVpSOGZ2aUszUXppTVAzelhHaWZURlpLYklWX2I3QTdaV2p4YVZacy1WMzZRMzdFdjhxb3J5amJ1?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Autres propositions",
+      "mesure": "La France Insoumise : un programme à quel prix ? - FranceTvPro.fr",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-22",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "La France Insoumise : un programme à quel prix ? - FranceTvPro.fr",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FcklzNFVENHpnMGhYVnJzY3dibUFSdDMtVkc1TjBqREhpQnhpcnlJelRCX1dCZ1A2ZGhEM1Jzai1aOXF2ZWVZMlNkZTNubWF5YUh5Ym1ueFJWV1ZZblBMUm9Waw?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Autres propositions",
+      "mesure": "Programme de Jean-Luc Mélenchon : quelles sont les mesures qui vous concernent ? - Le Figaro",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-10",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Programme de Jean-Luc Mélenchon : quelles sont les mesures qui vous concernent ? - Le Figaro",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQWdWWkFEeWMwMEp4c3BNQkdhaVpOaVAyZFJDakFEUFlOa0JUMXRmb25YbmN4dktodUszYUFycXFmRWljQ2VkQ3RpNEdsSlEwSkJ6eXN2OUVTcTdoS1BjQThaOTBmZUJyQktiYkFldEpfTmd3ZVh6N1REa19UdUk2T3dpLUNDQTNmcU5sMjE4alRRd1NyQzJwdUV3d2pjd3NmN3Q4Z3FONzZPczBzNmd0S0F1RmVidVpXMVZRdFlzWDBBUm9qYzlJalBPRzdQdw?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Jean-Luc Mélenchon",
+      "theme": "Autres propositions",
+      "mesure": "Face au programme de Jean-Luc Mélenchon, la responsabilité de la classe intellectuelle est écrasante - L'Express",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-22",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Face au programme de Jean-Luc Mélenchon, la responsabilité de la classe intellectuelle est écrasante - L'Express",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUC11cmRXY2VNcE8tT25SOWNITHJydGpiSF9HZ29yRjhxOENBRWVSaUFsT1UxcmpvVndRM2lnUXBGUGh2YjVkdGZQWHlZUVg1X2cxYl9xMnRoYzJhWXBzblpzUFpndW5aMGliZVZkWVJITVVhUm5HejZFd1A1QUp0blhKcC1yVndnXzF0a3dKRTJ5cExvUU9CemVHT1ctdTA5ZzZVNmVYaUdzeDJzUG5yUWZxQW1YMjVKd0tCTExiMVFMZTRYcU5OU3Vla1d2cm1FYWROQXg2Y1FiQXBEVVlINV92Um9ObzdzN05MZ0QxREdOdms?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "François Ruffin",
+      "theme": "Sécurité",
+      "mesure": "[Podcasts] La proposition du jour - \"Vous avez une proposition : l'interdiction des contrôles de police pendant 1 an. Pourquoi ?\" François Ruffin, candidat à la présidentielle : \"On n'interdit pas les contrôles (...) On a besoin d'une police du quotidien\" - 10/11 - RMC",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-10",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "[Podcasts] La proposition du jour - \"Vous avez une proposition : l'interdiction des contrôles de police pendant 1 an. Pourquoi ?\" François Ruffin, candidat à la présidentielle : \"On n'interdit pas les contrôles (...) On a besoin d'une police du quotidien\" - 10/11 - RMC",
+          "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOODZaLU1VU3BSV3kxS2VSaFdRWk5xUUlYUEJPaWszV2l6R0ZISWRqQ3gxZmxESVBWNTh3ZjdaREd0U3hDYUt3MFBza0JIU040TzkteFBwZTVFYU9FcFhQYjNGSHI4bFZDZXVCQ2RwUEpKN2lDUndHWGZISUZwLWYxWXZrNEI5NURwOFFnQ1pZeEhWTHJjdExLdUZadUtfemdpYk1tX01CSnFWMFY2T0ZfSXRlYUstbkRnVEtDTnFGc3J1T3QyeHotdks4dU1GOVRseUdJR2MtQndvSi1fbDFuTVhIckNMaWd4TWpqTE1aUkxBbWl5V253enF5dlB1WHVWdV9vdnFzdDNjOEJXelRBYk1YT2xoQlV4X1NVMzE5bjlpUkNtbGhPUXF6RVlGWHVscEx3U0dPdTJpVjR5V2JBUk1RRTI5cVJKY25EYVJZQjRmTldBXzIxQ3owLXl6bExQNGhhQ19CbERjdUI0dXRMZUJJYzZlTHRBLXFfOFVzWm1XR1g2bUxFZ2JKLUFKaDZLRWswWkdLb29udFE0QnliVldsamh3TXVZb1BOM2pFOFhpNE5ja2FRVTd3?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Marine Tondelier",
+      "theme": "Autres propositions",
+      "mesure": "La France insoumise et les Écologistes peuvent-ils vraiment se mettre d’accord sur un programme ? - Le HuffPost",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-21",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "La France insoumise et les Écologistes peuvent-ils vraiment se mettre d’accord sur un programme ? - Le HuffPost",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbG5QYVl4TWdWVVZhN1NjeDVuWlIzMWp2alI2OHhhZzFPQk9kT1hTVUgxQlZmVmtxbExBYjFGeXowQWlQNlNWLWtqRXQ2U2Y1azRfNmQ1bWQ1WnZWY3ZYMTF1V2htQTVvT1BBT0FlRE1lLWhPbUE0Ym9BOGVMWGhycTJzWHo0cGFNVVpfYkc1cWlJOGt0TXF3T2M2c05MQmtETFZybVpjblhJN0M3dVQ1V3hFTFFoRlUxbFZWdGJJbEtoY21oNUZBd0ppZl9RR05tZ3ZIMndKSDBEcjRWMkk0aU5PZEp1ZFh4NjBj?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Teddy Riner",
+      "theme": "Autres propositions",
+      "mesure": "La causerie de Mondial Sports : Teddy Riner et la présidentielle, le combat de trop? - RFI",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-22",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "La causerie de Mondial Sports : Teddy Riner et la présidentielle, le combat de trop? - RFI",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQnVwajZ3eWtXczJUNk1oTWlVU1lmcHk1clRzXy1PVFlwSnE2ZjF4TEdlYy1lTkRCTk81bmhTZ1owT2xrYklJek50akxhRmxfdW51VWR2TjMta1plR25DRmEzN2NUaVRhUWhBT2dQVHdXQjJweFU4a2RYOHlRSnNzdTRJQXdrOXlja1pVNlFjVkJNYWl4YWVpRVNZaWxRRTZ1aUpUZHNndVlqajlFS2ZjZlUxVnFTbHRCdnR0V3FuVl9JeTNnd0w2N1BVZmw0Ri1lODg4alRIRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "personnalite": "Teddy Riner",
+      "theme": "Autres propositions",
+      "mesure": "Olivier Serva sur CNEWS confirme son parrainage à Teddy Riner - Politique Matin",
+      "proposition": "Publication à examiner : aucune proposition précise encore vérifiée.",
+      "date": "2026-11-22",
+      "nature": "Repérage automatique dans un flux RSS",
+      "statut": "Non vérifié — à examiner",
+      "cout_annuel": null,
+      "cout_cinq_ans": null,
+      "financement": "Non documenté",
+      "analyse": "Source primaire et contexte à vérifier.",
+      "sources": [
+        {
+          "titre": "Olivier Serva sur CNEWS confirme son parrainage à Teddy Riner - Politique Matin",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOejF2NXY1Y2xVLUc5QVlEclpfNHVtb1pBWGlrX0REa1VocU9VQk81QUNDT1lnanJ1amlNVi1PTXRrUlYyNFAwZ3QtS29MVUlmMWVTTll1RkUxc1V6M0dYV3kyakNLUVBJcWh6aWVndFhkb1FVOEZHYWhrbGFLODkwZ3ZyU0syRzJGeHBndVVfMDNTcXVHN2d3?oc=5"
         }
       ]
     }
