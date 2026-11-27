@@ -1,6 +1,71 @@
 {
-  "derniere_mise_a_jour": "2026-11-26",
+  "derniere_mise_a_jour": "2026-11-27",
   "articles": [
+    {
+      "titre": "Séance publique du 26 novembre 2026 (après-midi) - Direct Sénat",
+      "date": "2026-11-27",
+      "type": "Repérage documentaire",
+      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
+      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
+      "sources": [
+        {
+          "titre": "Lien vers la publication repérée (Google Actualités)",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMnQ3OFByaXpYVXhZejdkU3VHNjNFRWdVSTFSN2tLWExoeFJSRVNTbkZZQkJTYllnVFB1S2dRRnRZcDM0X1FTaHI2REMtZW1iZGk3OURJRVFicER4ZEl6TGNIQnc5ejNHM3A3QUJHSEs4UWFBbFBvNzNYeGZlbmF1dF9kbWk2NXBpWWlKcG9SVWpyX3MxUzczZVBnWXNreFU?oc=5"
+        }
+      ]
+    },
+    {
+      "titre": "UE : adoption du budget pour l'année 2027 - Vie publique",
+      "date": "2026-11-26",
+      "type": "Repérage documentaire",
+      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
+      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
+      "sources": [
+        {
+          "titre": "Lien vers la publication repérée (Google Actualités)",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHh5SVBnVy1qRGZ3QURiNEZUVkFURGFEbmdJN18yRzNvVDkyYXN0ZTJXMGNnTUJULS1mWmFLSmRyTWdnNWRVaHpqdlphLWR1YTU1N1hyNF9XTGNUQUEtcnpqNWtEbi1ZWHl3dnpsenZhb2hNelF4NEcxdzAtZ0ltd3gwel8zc19iWVpR?oc=5"
+        }
+      ]
+    },
+    {
+      "titre": "Quelles sont les conditions pour être candidat à l'élection présidentielle ? - Vie publique",
+      "date": "2026-11-26",
+      "type": "Repérage documentaire",
+      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
+      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
+      "sources": [
+        {
+          "titre": "Lien vers la publication repérée (Google Actualités)",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOekZSS3htbkhpbGlPZjlqU1lEUHFyTGI2N1lMSW5NTjFMYVp3NHViZjBPaUN1TlhSMFhHajFiVlBOck5yaHpEWk9Ed09IMGRQYzRRbzE5dFZQT1h5LTRRdHc4T3ZoRGQtSHBROEJxRGZkTXdUOUFGMk5lTlhYcTNoUkM1NHkyOUx1WVkwbXJmNA?oc=5"
+        }
+      ]
+    },
+    {
+      "titre": "Budget 2027 - Examen d'avis - Sénat",
+      "date": "2026-11-26",
+      "type": "Repérage documentaire",
+      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
+      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
+      "sources": [
+        {
+          "titre": "Lien vers la publication repérée (Google Actualités)",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmpjZHFEcWVrT1ZuRmhoVjR2Y085SUZGMmdhUzNzVGdCUzZ1dGdLazh2RlVyLXBMaDdCWWxjbmV6aXV5WUdFaWFnYmNneU0zbnF6S18xcVlXbXNUdmJZLXlFUmdyRUFFQzduQ25HTGZNeG5iUmRKcXBQbWJRTExqM0t2OGExU2R0MU5vT056WVBvMFR5UDBpbUpDSmg0OXVnbzVLYk1wSnFxdzd2QkE3eHE0eDVETFBTOWJpNFJDX0tUSUEtNUNObzRR?oc=5"
+        }
+      ]
+    },
+    {
+      "titre": "Budget - Direct Sénat",
+      "date": "2026-11-26",
+      "type": "Repérage documentaire",
+      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
+      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
+      "sources": [
+        {
+          "titre": "Lien vers la publication repérée (Google Actualités)",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmaExBMWhsOGozWVZFcUdQT1VBTlFkZXc5enpSaFljRThYajVtbzI5ZUhVM0xLbDdVMW5BV0dnUE9XeWh2TDVGMXRIdlJsZ0xpVm5YQldaQ2kxYWxxY0VqQzItQQ?oc=5"
+        }
+      ]
+    },
     {
       "titre": "En novembre 2026, la confiance des ménages reste dégradée - Informations rapides - 286 - Insee",
       "date": "2026-11-25",
@@ -37,6 +102,32 @@
         {
           "titre": "Lien vers la publication repérée (Google Actualités)",
           "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdll0MXo0Q1F4Y2VuUTN1YlY4OVhGY245aW1EZzl6bjJ4SUtmMDNpRjdsSU9oX1hzV2thcTl5UHhxcnRzV1lfWDdXTUJYS1ptTjFlQVd5YklzNEViaUtCWXpsdFByQ1hjTHU2VEdBMzVPVUJJMjVCWEJxRF9RTU1vRkxCY1BOMnBQU044bkpsUkFwM1lCZnllX2loU2ZKc3JBQzI3NC1lZnYwSnI4a1BFTTFQYVJJYmRNU2ZRWFdZSDlhQjgzYU80cnA2aHNnNkhXandCc3NfLWo0Tnd0azlSdWRZUTVHZmxhY0NXODlEaURYMjF2eTJ5RWZRMA?oc=5"
+        }
+      ]
+    },
+    {
+      "titre": "Commission des affaires sociales : Autoriser le diagnostic préimplantatoire des aneuploïdies au bénéfice des couples ; Renforcer le droit de retrait en période de canicule - Assemblée nationale",
+      "date": "2026-11-25",
+      "type": "Repérage documentaire",
+      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
+      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
+      "sources": [
+        {
+          "titre": "Lien vers la publication repérée (Google Actualités)",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcEo4UVQ2OGx4X0ZiNExNU25WX3dpQy1jbFB2RWpVY2N3YVgwZFE1YzVPYTdTdUxJS0oyM0ZMNHAyRVF5azlEN0NPemlSSElPbVlwdURkZnBadjF2MlFaTFdzU2gwcWhKOVE4NnN2TDRXTlB3cS1PNUw3emVKcjdtN2ZPenhlWjNmdUtURjVnZkhtd2NGZlQ2ZFBNTDFsU3ktMXUzbHJrSzlCckNWcmxzM1RVVWtpbHlUQjV6cEtlT0lFQ2RkQk56eW1wNTNNYWd4VmxaLS1waEdSQ0pSRy1xd0poclJ3ckdSUkZlZjFLRllIdXBrc0xsMTRFNlRmZms2dXV6dXdPWUJiakIyaklUaw?oc=5"
+        }
+      ]
+    },
+    {
+      "titre": "Budget 2027 : audition d'Édouard Geffray - Sénat",
+      "date": "2026-11-25",
+      "type": "Repérage documentaire",
+      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
+      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
+      "sources": [
+        {
+          "titre": "Lien vers la publication repérée (Google Actualités)",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1FpQ0Rkekc4QVdZOUd3RFZzalRmQlo4VHFEWnh2OU50eFNiVDh4YzBtWHRQTEw2YmRBNC1HOFNwWjV5Z0VYd3kwYzV1RnhNNXVnWjctQTRPQWZuVUtfS1p0akpCdDJSbUcyd2k5eXJTVHlpSDhnTWFydlBzQ0JHTHFNV3I?oc=5"
         }
       ]
     },
@@ -245,6 +336,71 @@
         {
           "titre": "Lien vers la publication repérée (Google Actualités)",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSmVFYzc1YUlONl8yUFVoNXNjY1dBZEc5S1BnS0c1Nld4dXItQUFJXzdLRkxlS3o4QURlMTBlTW0zQnNzT1Vzc29rdWg2emZ4ZVpOa1BwNkJvRDk3Ym5PYWZVLTRMdE5ZbDh5UV9kOHN2VlJncEZpbGtoSXZFRVl1YjQ3cUVvemQxZVNKMW12eThoOVp2NFZHcG4xa2llX3FST3NWekF3dlJDbUNwVUhvbVhPRnJJS2JmdjM2N19VZlRCVzhuZUVERUkwMGlIQVZMX1RCTkV4Q3B3WkhKMV92NXRONUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "titre": "Compte rendu de la deuxième séance du mardi 24 novembre 2026 - Assemblée nationale",
+      "date": "2026-11-24",
+      "type": "Repérage documentaire",
+      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
+      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
+      "sources": [
+        {
+          "titre": "Lien vers la publication repérée (Google Actualités)",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1BvUWJKQVpvWEZyc1lsN1I1QUlyb1pvWko2eHF2dXJlRk1hZUZhc3lnMlBtc2RuRDV5ZDdPcm4tc0t5a1UtVDRoMFNNSmJjMWtSZnVNaGhwTFY1SHJadGRETzlTTnA2cUhmT2w1ZUVESHgybDluXzhjMHoteUl4UUw1bzFLSmZGT1ZPX093b3RkMzRnTDg3MUhOMmw2bkxBZEliS0JVRUJhRGR5dmZGVzVZeDF5YWQ0czc3ZU1WcGt5X3V3MWFodzFwLW9HUktZcGc?oc=5"
+        }
+      ]
+    },
+    {
+      "titre": "Examen de trois propositions de résolution européenne - Assemblée nationale",
+      "date": "2026-11-24",
+      "type": "Repérage documentaire",
+      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
+      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
+      "sources": [
+        {
+          "titre": "Lien vers la publication repérée (Google Actualités)",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOXg5SGFyYURGRGN4NTJUYjctNzJZRjYtY0RDcWRuXzZSanpZem1pRmJRV3NscXhtQWhCUjhfTzV6bDV3SWxCckRONWVwazIzemxGcGhNejFWUkgwaWV5TVo4aVBqbEVQWDZfQUlzaHVOM2dMNGR5dHVEVFB5UURVZTA5b0dWOHdNTU5tR2ppenEwalJ1R3hoZ0JDcXFiN0lpTXlDc1lZbjBlaGYzaFZ0QzIwcl9TQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "titre": "Adoption du projet de loi de finances de fin de gestion pour 2026, compte tenu du texte de la commission mixte paritaire - Assemblée nationale",
+      "date": "2026-11-24",
+      "type": "Repérage documentaire",
+      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
+      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
+      "sources": [
+        {
+          "titre": "Lien vers la publication repérée (Google Actualités)",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNOVVmdWxKNjNERmFCVHJxbWNnZkhiMFhDMVppVTFYWDZORjFoQ0h0a25xQ2JDTzJ4Y0FPYzlKUUZEd3R6aW1TWTdrM1RWSEcxdmUxOXlScTVTVmZpbDdqa0JRNS1yN180VWt0Q3lnRVZNZ2tXMlgyOGJtd3FKRTZiVnA1azdNZ3FCclZEVVM5eExiT042emRfSHBoajRHdE9QaUY5ZWFvU3pGVXRteGwxVlVaYTVpaklKZTZkQjJ4RjlPZUU1MUlQYUxrVURGU2RPYmVHWXJXQjB3V0thakx1RDJ6a05Vell3OUpGeWMtVTFsNmVFaFludnVzT2hVRXRkbUh6dlZzQzNXbGJwOFE?oc=5"
+        }
+      ]
+    },
+    {
+      "titre": "Adoption du projet de loi visant la relance et la décentralisation du logement, en première lecture - Assemblée nationale",
+      "date": "2026-11-24",
+      "type": "Repérage documentaire",
+      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
+      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
+      "sources": [
+        {
+          "titre": "Lien vers la publication repérée (Google Actualités)",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOGJFN2xDdkVacFY4NVluejZ4Z05QTFhLMUpqdXRKMC1mLVRvZHBYUnR6LUNuOFVtV19YbVhLMTV2S1dCRE5qWTI0UllDYU5ZVXNGRWdQZ2ZBXzdJbzNyNzQwNURvM3V6SXBISGFlTEJ1Vmc5eFpfLVRMdHF3bG94Q3VqbHF1b0dPLVJYR1BWWHRwRzJsaWUtR05EX241NG10TlJVNERiY21lWC1UV0RZeXM4bkpGVlc2RnowZ1R1SnBtOExuR3Z2WGdvXzg2SEFxc3JuNldDR0Q0YVJwQVhUTG9NelJlbUxndkxnbUNVYUxWZw?oc=5"
+        }
+      ]
+    },
+    {
+      "titre": "Budget 2027 : audition de Gérald Darmanin - Sénat",
+      "date": "2026-11-24",
+      "type": "Repérage documentaire",
+      "statut": "Non vérifié — signalement RSS, à contrôler dans la source originale",
+      "resume": "Publication repérée automatiquement dans un flux d’actualités. Son contenu, sa date et ses affirmations n’ont pas été vérifiés indépendamment. Ouvrir la source avant toute conclusion.",
+      "sources": [
+        {
+          "titre": "Lien vers la publication repérée (Google Actualités)",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnVQei1iNGxqRVg0QWV4bmtjd2ZuQUNpeXo5TVc1UWY5U2pWaVNid3JkUk0yQkJvSjRlYWdlV1g3NXB4MmdzN1VVXzJ0ZlQyYldxbXNueGg4eURCU2JjSS1PaUh4a2xORFBqd2pUa2twa2xuSTh2N1VjYkxTSW5yNE1neTVCcFk?oc=5"
         }
       ]
     },
